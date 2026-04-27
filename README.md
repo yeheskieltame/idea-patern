@@ -50,7 +50,7 @@ Buka [**Skill: Hackathon Idea Finder & Validator**](skill-idea.md). Skill ini bi
 **Cara pakai (1 baris):** copy link ini, paste ke AI agent, tambah pesan kamu:
 
 ```
-https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/skill-idea
+https://devweb3-jogja.gitbook.io/idea/skill-idea
 ```
 
 Contoh pesan: *"Tolong baca skill di link ini, terus bantuin aku validasi ide hackathon Web3 — idenya: [pitch kamu]"*
@@ -111,4 +111,4 @@ Dokumentasi ini hidup dan terus di-update. Kalau kamu nemuin gap atau mau kontri
 
 ---
 
-*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/idea/) — for builders, by builders.*

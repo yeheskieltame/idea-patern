@@ -210,4 +210,4 @@ Hackathon dengan live judging butuh kehadiran tim. **Catat jadwal judging sessio
 
 ---
 
-*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/idea/) — for builders, by builders.*

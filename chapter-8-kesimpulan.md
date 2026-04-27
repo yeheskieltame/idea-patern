@@ -156,4 +156,4 @@ Selamat building, dan semoga panduan ini jadi titik awal yang berguna dalam perj
 
 ---
 
-*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/idea/) — for builders, by builders.*

@@ -205,4 +205,4 @@ Aplikasi zero-knowledge proofs buat verify data dari standard TLS connection (co
 
 ---
 
-*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/idea/) — for builders, by builders.*

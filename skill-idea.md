@@ -2,8 +2,8 @@
 name: hackathon-idea-finder
 version: 1.0
 description: Skill untuk membantu user menemukan ide hackathon Web3 yang strategis atau memvalidasi ide mereka. AI agent yang menerima skill ini akan paham cara nge-guide user dari nol sampai ide yang siap di-build, atau ngevaluasi ide existing user.
-canonical_url: https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/skill-idea
-docs_root: https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/
+canonical_url: https://devweb3-jogja.gitbook.io/idea/skill-idea
+docs_root: https://devweb3-jogja.gitbook.io/idea/
 language: id-ID dengan English jargon
 ---
 
@@ -16,12 +16,12 @@ language: id-ID dengan English jargon
 ## 🔗 URL Resmi Skill Ini
 
 ```
-https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/skill-idea
+https://devweb3-jogja.gitbook.io/idea/skill-idea
 ```
 
 > **Untuk User:** Copy URL di atas, paste ke AI agent kamu (Claude, ChatGPT, Gemini, Grok), tambah pesan: *"Tolong baca skill di link ini, terus bantuin aku [cari/validasi/refine] ide hackathon Web3"* — AI bakal langsung paham workflow-nya.
 
-> **Untuk AI Agent yang nge-fetch URL ini:** Skill ini berisi instruksi lengkap untuk membantu user menemukan atau memvalidasi ide hackathon Web3. Ikuti workflow di bawah dengan ketat. Reference docs lengkap ada di GitBook root: https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/
+> **Untuk AI Agent yang nge-fetch URL ini:** Skill ini berisi instruksi lengkap untuk membantu user menemukan atau memvalidasi ide hackathon Web3. Ikuti workflow di bawah dengan ketat. Reference docs lengkap ada di GitBook root: https://devweb3-jogja.gitbook.io/idea/
 
 ---
 
@@ -30,13 +30,13 @@ https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/skill-idea
 ### Opsi A: Share Link Skill (Recommended)
 ```
 Copy link ini ke AI agent:
-https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/skill-idea
+https://devweb3-jogja.gitbook.io/idea/skill-idea
 
 Lalu bilang:
 "Tolong baca skill di link ini, terus bantuin aku [cari ide / validasi ide] hackathon Web3."
 ```
 
-> Catatan: link `/skill-idea` langsung ke halaman skill ini. Kalau AI butuh konteks lebih luas, dia bisa explore dari root: `https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/`
+> Catatan: link `/skill-idea` langsung ke halaman skill ini. Kalau AI butuh konteks lebih luas, dia bisa explore dari root: `https://devweb3-jogja.gitbook.io/idea/`
 
 ### Opsi B: Paste Skill File
 Copy seluruh isi file `skill-idea.md` ini, paste ke chat AI agent kamu, lalu langsung tanya tentang ide kamu.
@@ -89,7 +89,7 @@ Sebelum brainstorm, aku butuh konteks dulu:
 - Kalau user kasih nama hackathon, search info terbaru tentang event tersebut
 - Kalau ada tools web search, cek X/Twitter untuk signal sponsor terbaru
 - Klasifikasi sponsor ke 3 kategori (Foundation / Exchange / DeFi Protocol)
-- Sebutkan referensi: "Detail taksonomi sponsor ada di Bab 2 dari [GitBook docs](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/)"
+- Sebutkan referensi: "Detail taksonomi sponsor ada di Bab 2 dari [GitBook docs](https://devweb3-jogja.gitbook.io/idea/)"
 
 ### Step 2: Tech Stack Discovery + LLM-Friendly Resources
 
@@ -448,7 +448,7 @@ Action items kamu:
 
 Kapan-kapan balik lagi kalau perlu validate progress atau review submission ya.
 
-Reference lengkap ada di [GitBook docs](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/)
+Reference lengkap ada di [GitBook docs](https://devweb3-jogja.gitbook.io/idea/)
 ```
 
 ### Setelah VALIDATE IDEA selesai:
@@ -470,7 +470,7 @@ Skor breakdown ada di atas. Kalau udah refine, balik lagi buat pre-submission re
 
 Skill ini dibuat berdasarkan panduan komprehensif:
 
-📚 **GitBook Docs:** https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/
+📚 **GitBook Docs:** https://devweb3-jogja.gitbook.io/idea/
 
 Bab yang relevan:
 - **Bab 1:** Pendahuluan & Evolusi Hackathon Web3
@@ -492,7 +492,7 @@ Bab yang relevan:
 
 ## Credit
 
-Skill ini dibuat oleh **[Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/)** — komunitas builder Web3 di Yogyakarta yang fokus ke hands-on building, akses panggung global, dan mentorship antar-builder.
+Skill ini dibuat oleh **[Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/idea/)** — komunitas builder Web3 di Yogyakarta yang fokus ke hands-on building, akses panggung global, dan mentorship antar-builder.
 
 > **Made with ☕ by builders, for builders.**
 

@@ -212,4 +212,4 @@ Detail step-by-step ada di [Bab 9: Cheatsheet Brainstorming](chapter-9-cheatshee
 
 ---
 
-*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/idea/) — for builders, by builders.*
