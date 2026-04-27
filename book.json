@@ -1,0 +1,28 @@
+{
+  "title": "Arsitektur Strategis Inovasi Web3",
+  "description": "Panduan Komprehensif Ideasi, Penyelarasan Ekosistem, dan Kesiapan Modal Ventura dalam Hackathon Global 2026",
+  "author": "Study Group UTDI",
+  "language": "id",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md",
+    "glossary": "glossary.md"
+  },
+  "plugins": [
+    "hints",
+    "expandable-chapters",
+    "search-pro",
+    "anchor-navigation-ex",
+    "page-toc-button"
+  ],
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "associatedWithSummary": true,
+      "printLog": false,
+      "multipleH1": true,
+      "mode": "float",
+      "showGoTop": true
+    }
+  }
+}
