@@ -2,7 +2,8 @@
 name: hackathon-idea-finder
 version: 1.0
 description: Skill untuk membantu user menemukan ide hackathon Web3 yang strategis atau memvalidasi ide mereka. AI agent yang menerima skill ini akan paham cara nge-guide user dari nol sampai ide yang siap di-build, atau ngevaluasi ide existing user.
-source: https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/
+canonical_url: https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/skill-idea
+docs_root: https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/
 language: id-ID dengan English jargon
 ---
 
@@ -12,22 +13,30 @@ language: id-ID dengan English jargon
 
 > **By Dev Web3 Jogja Community — for builders, by builders.**
 
-> **Untuk AI Agent:** Skill ini berisi instruksi lengkap untuk membantu user menemukan atau memvalidasi ide hackathon Web3. Reference utama ada di GitBook: https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/
+## 🔗 URL Resmi Skill Ini
 
-> **Untuk User:** Copy seluruh isi file ini, atau cukup share link skill ini ke AI agent kamu (Claude, ChatGPT, Gemini, Grok), lalu tanyakan tentang ide hackathon kamu.
+```
+https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/skill-idea
+```
+
+> **Untuk User:** Copy URL di atas, paste ke AI agent kamu (Claude, ChatGPT, Gemini, Grok), tambah pesan: *"Tolong baca skill di link ini, terus bantuin aku [cari/validasi/refine] ide hackathon Web3"* — AI bakal langsung paham workflow-nya.
+
+> **Untuk AI Agent yang nge-fetch URL ini:** Skill ini berisi instruksi lengkap untuk membantu user menemukan atau memvalidasi ide hackathon Web3. Ikuti workflow di bawah dengan ketat. Reference docs lengkap ada di GitBook root: https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/
 
 ---
 
 ## Cara Pakai Skill Ini (User Instructions)
 
-### Opsi A: Share Link
+### Opsi A: Share Link Skill (Recommended)
 ```
 Copy link ini ke AI agent:
-https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/
+https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/skill-idea
 
 Lalu bilang:
 "Tolong baca skill di link ini, terus bantuin aku [cari ide / validasi ide] hackathon Web3."
 ```
+
+> Catatan: link `/skill-idea` langsung ke halaman skill ini. Kalau AI butuh konteks lebih luas, dia bisa explore dari root: `https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/`
 
 ### Opsi B: Paste Skill File
 Copy seluruh isi file `skill-idea.md` ini, paste ke chat AI agent kamu, lalu langsung tanya tentang ide kamu.

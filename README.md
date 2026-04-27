@@ -41,16 +41,19 @@ Bukan buat: orang yang nyari shortcut tanpa mau riset, atau yang masih mikir hac
 {% hint style="success" %}
 **Mau langsung dapet ide tanpa baca semua bab?**
 
-Buka [**Skill: Hackathon Idea Finder & Validator**](skill-idea.md), copy linknya, terus paste ke AI agent kamu (Claude, ChatGPT, Gemini, Grok). AI bakal langsung tau cara nge-guide kamu:
+Buka [**Skill: Hackathon Idea Finder & Validator**](skill-idea.md). Skill ini bikin AI agent kamu (Claude, ChatGPT, Gemini, Grok) langsung jadi mentor hackathon dengan 3 mode:
 
 - 🆕 **Generate Idea** — cari ide dari nol via 6-step workflow
 - ✅ **Validate Idea** — evaluasi ide existing dengan 5-dimensi penilaian
 - 🔧 **Refine Idea** — tajemin scope, architecture, atau demo flow
 
-Cukup share link ini ke AI:
+**Cara pakai (1 baris):** copy link ini, paste ke AI agent, tambah pesan kamu:
+
 ```
 https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/skill-idea
 ```
+
+Contoh pesan: *"Tolong baca skill di link ini, terus bantuin aku validasi ide hackathon Web3 — idenya: [pitch kamu]"*
 {% endhint %}
 
 ---
