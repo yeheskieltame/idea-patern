@@ -1,180 +1,180 @@
-# Bab 5: Studi Kasus Program Hackathon dan Akselerator Utama 2026
+# Bab 5: Studi Kasus Program Hackathon dan Accelerator Utama 2026
 
-Untuk memberikan pemahaman praktis, kita harus melihat bagaimana kriteria dari bab-bab sebelumnya **diterapkan pada program nyata** di tahun 2026. Program-program ini mewakili **spektrum penuh** dari ideasi murni hingga kesiapan skala ventura.
+Buat ngasih pemahaman praktis, kita liat gimana kriteria dari bab-bab sebelumnya **diterapin di program nyata** 2026. Program-program ini representasiin **spektrum penuh** dari pure ideation sampai venture-scale readiness.
 
 ---
 
-## Base Batches 003: Fokus pada Ekonomi On-Chain
+## Base Batches 003: Fokus pada On-Chain Economy
 
-**Base Batches 003** adalah contoh utama dari program yang **mencari kematangan proyek**, bukan ide eksperimental.
+**Base Batches 003** adalah contoh utama program yang **nyari maturity proyek**, bukan ide eksperimental.
 
 ### Tema dan Fokus
 
-Fokus utama mereka adalah pada:
+Fokus utama:
 
-- **Trading** — Infrastruktur dan aplikasi perdagangan
-- **Payments** — Rails pembayaran on-chain
+- **Trading** — Infrastruktur dan trading apps
+- **Payments** — On-chain payment rails
 
-Dengan tujuan akhir membangun **ekonomi on-chain yang mandiri**.
+Tujuan akhir: build **self-sustaining on-chain economy**.
 
-### Profil Tim yang Terpilih
+### Profil Tim yang Lolos
 
-Dari **12 tim** yang terpilih (dari 1.100+ aplikasi), mayoritas berada di **persimpangan antara DeFi dan AI**.
+Dari **12 tim** yang lolos (dari 1.100+ aplikasi), mayoritas ada di **persimpangan DeFi dan AI**.
 
 #### Proyek Pilihan dan Analisis
 
-| Proyek | Vertikal | Insight Strategis |
+| Proyek | Vertikal | Strategic Insight |
 |--------|----------|-------------------|
-| **Blockrun.ai** | AI Infrastructure | Infrastruktur bagi agen AI untuk mengakses LLM dan data dengan pembayaran per permintaan melalui protokol **x402** |
-| **Credifi** | Lending | Pinjaman tanpa jaminan (uncollateralized lending) menggunakan teknologi **zk-TLS** dan skor kredit |
-| **Tomorrow** | Creator Economy | Pinjaman koin stabil yang dijaminkan untuk **ekonomi kreator** |
+| **Blockrun.ai** | AI Infrastructure | Infrastruktur buat AI agents akses LLM dan data dengan **per-request payment** via **x402 protocol** |
+| **Credifi** | Lending | **Uncollateralized lending** pakai **zk-TLS** dan credit score |
+| **Tomorrow** | Creator Economy | Stablecoin loans yang ter-collateral untuk **creator economy** |
 
 ### Pelajaran dari Base Batches
 
 {% hint style="success" %}
-**Pelajaran kunci:** Ide yang menang di Base Batches **bukanlah ide yang "liar" atau eksperimental tanpa arah**. Sebaliknya, ide yang menang adalah ide yang menyasar **pasar yang masif** (seperti pasar kredit AS senilai **$1,3 triliun**) dengan **efisiensi modal yang lebih baik** daripada perbankan tradisional.
+**Key takeaway:** Ide yang menang di Base Batches **bukan ide "wild" atau eksperimental tanpa arah**. Yang menang adalah ide yang nargetin **massive market** (kayak US credit market senilai **$1.3 triliun**) dengan **capital efficiency** yang lebih bagus dari traditional banking.
 {% endhint %}
 
-### Pola Sukses yang Dapat Direplikasi
+### Pola Sukses yang Bisa Direplikasi
 
 Tiga karakteristik umum tim pemenang:
 
-1. **Pasar Total Addressable (TAM) jelas** — Mengutip angka pasar tradisional yang dapat diserap
-2. **Efisiensi 10x** — Bukan hanya "alternatif", tetapi solusi yang nyata-nyata superior
-3. **Use case spesifik** — Bukan platform horizontal, tetapi vertikal yang fokus
+1. **Total Addressable Market (TAM) jelas** — Cite angka pasar tradisional yang bisa diserap
+2. **10x efficiency** — Bukan cuma "alternative", tapi solusi yang nyata-nyata superior
+3. **Specific use case** — Bukan horizontal platform, tapi vertikal yang fokus
 
 ---
 
-## Hedera Apex 2026: Inovasi dengan Dampak Dunia Nyata
+## Hedera Apex 2026: Real-World Impact
 
-Hackathon **Hedera Apex 2026** menunjukkan bagaimana **yayasan infrastruktur** mencari inovasi untuk menyelesaikan **masalah spesifik** menggunakan fitur jaringan unik mereka.
+Hackathon **Hedera Apex 2026** nunjukin gimana **infrastructure foundation** nyari inovasi buat nyelesain **specific problem** pakai unique network feature mereka.
 
-### Keunggulan Jaringan Hedera
+### Keunggulan Network Hedera
 
-- Biaya transaksi **sangat rendah**
-- Transaksi mikro **cepat**
-- Emisi karbon **minimal**
+- Transaction fee **sangat rendah**
+- **Microtransactions** cepat
+- **Carbon emission** minimal
 
 ### Struktur Track
 
-Tantangan terstruktur menjadi beberapa Track:
+Challenges terstruktur ke beberapa Track:
 
 #### Track 1: AI & Agents
 
-Membangun alat koordinasi di mana **aktor otonom dapat bertransaksi** menggunakan layanan konsensus Hedera.
+Build **coordination tooling** di mana **autonomous actors** bisa transact pakai Hedera Consensus Service.
 
 Contoh ide:
-- Marketplace untuk inferensi AI dengan pembayaran mikro
-- Sistem reputasi untuk agen AI on-chain
-- Orchestrator multi-agent dengan settlement deterministik
+- Marketplace untuk AI inference dengan micropayment
+- On-chain reputation system untuk AI agents
+- Multi-agent orchestrator dengan deterministic settlement
 
 #### Track 2: DeFi & Tokenization
 
-Fokus pada **aset dunia nyata (RWA)** yang diprogram dan **sistem komposabel lintas rantai**.
+Fokus ke **programmable real-world assets (RWA)** dan **cross-chain composable systems**.
 
 Contoh ide:
-- Tokenisasi aset komoditas dengan oracle dunia nyata
+- Tokenisasi commodity asset dengan real-world oracle
 - Cross-chain RWA settlement layer
 - Programmable yield instruments
 
 #### Track 3: Sustainability
 
-Mengembangkan mekanisme insentif untuk **dampak ekologis dan sosial**, memanfaatkan emisi karbon rendah dari jaringan Hedera.
+Develop **incentive mechanism** buat **ecological & social impact**, manfaatin low-carbon emission Hedera.
 
 ### Studi Kasus Unggulan: Smart Crop Disease Detection
 
-Salah satu ide unggulan dalam kategori Sustainability adalah:
+Salah satu ide unggulan di kategori Sustainability:
 
-> **Smart Crop Disease Detection** — Menggunakan visi komputer (computer vision) pada ponsel untuk mendeteksi penyakit tanaman dan memberikan saran perawatan secara **offline**.
+> **Smart Crop Disease Detection** — Pakai **computer vision** di smartphone buat detect penyakit tanaman dan kasih saran perawatan secara **offline**.
 
-#### Mengapa Ide Ini Menang?
+#### Kenapa Ide Ini Menang?
 
 {% hint style="info" %}
-Ide ini membuktikan bahwa **ide yang menang sering kali menggabungkan**:
-1. **Teknologi canggih** (AI/ML)
-2. **Dampak sosial yang nyata** (ketahanan pangan)
-3. **Fitur unik blockchain** (verifikasi on-chain dengan biaya rendah)
+Ide ini buktiin bahwa **ide yang menang sering kali ngegabungin**:
+1. **Cutting-edge tech** (AI/ML)
+2. **Real social impact** (ketahanan pangan)
+3. **Unique blockchain feature** (low-cost on-chain verification)
 {% endhint %}
 
 ### Pola Sukses dari Hedera Apex
 
-- **Memanfaatkan keunggulan teknis spesifik** jaringan (bukan blockchain agnostic)
-- **Solusi untuk masalah dunia nyata** yang dapat dirasakan non-crypto users
-- **Kombinasi off-chain dan on-chain** yang elegan
+- **Manfaatin specific technical advantage** network (bukan blockchain agnostic)
+- **Solusi untuk real-world problem** yang bisa dirasain non-crypto users
+- **Elegant off-chain + on-chain combination**
 
 ---
 
-## Synthesis MD: Infrastruktur untuk Agen Otonom
+## Synthesis MD: Infrastruktur untuk Autonomous Agents
 
-**Synthesis MD** adalah hackathon yang **sangat khusus** yang berfokus pada masa depan di mana **agen AI adalah aktor ekonomi utama** di Ethereum.
+**Synthesis MD** adalah hackathon **sangat khusus** yang fokus ke masa depan di mana **AI agents adalah primary economic actor** di Ethereum.
 
-### Visi Penyelenggara
+### Vision Sponsor
 
-Penyelenggara di sini (termasuk **Lido** dan **Protocol Labs**) mencari **"arsitektur"** yang memungkinkan manusia tetap **memegang kendali** atas agen mereka.
+Sponsor di sini (termasuk **Lido** dan **Protocol Labs**) nyari **architecture** yang ngebuat manusia tetap **maintain control** atas agent mereka.
 
-### Bounty Spesifik
+### Specific Bounties
 
 #### Bounty 1: stETH Agent Treasury
 
-> **Tantangan:** Membangun primitif kontrak yang memungkinkan manusia memberikan **anggaran operasional yield-bearing** kepada agen AI **tanpa memberikan akses ke modal pokok (principal)**.
+> **Challenge:** Build **contract primitive** yang ngebuat manusia bisa kasih **yield-bearing operational budget** ke AI agents **tanpa kasih access ke principal**.
 
-**Mengapa penting?**
-- Memungkinkan delegasi otonom yang aman
-- Menjaga prinsip "human in the loop" pada level capital
-- Membuka use case baru untuk LST (Liquid Staking Tokens)
+**Kenapa penting?**
+- Memungkinkan **safe autonomous delegation**
+- Maintain **human-in-the-loop** principle di level capital
+- Buka use case baru untuk **LST (Liquid Staking Tokens)**
 
 #### Bounty 2: Agents that Pay
 
-> **Tantangan:** Menghilangkan ketergantungan pada **layanan pembayaran terpusat** dan beralih ke **penyelesaian on-chain yang tidak dapat diblokir**.
+> **Challenge:** Hilangin dependency ke **centralized payment service** dan shift ke **uncensorable on-chain settlement**.
 
-**Mengapa penting?**
-- Censorship-resistant agent commerce
-- Settlement deterministik untuk B2A (Business-to-Agent)
-- Pondasi untuk ekonomi agen otonom skala besar
+**Kenapa penting?**
+- **Censorship-resistant** agent commerce
+- Deterministic settlement untuk **B2A (Business-to-Agent)**
+- Foundation buat large-scale autonomous agent economy
 
 ### Pelajaran dari Synthesis MD
 
 {% hint style="warning" %}
-Penyelenggara dengan tema niche seperti Synthesis MD mencari **inovasi arsitektur spesifik** yang dapat mereka **ambil dan integrasikan** ke ekosistem mereka sendiri.
+Sponsor dengan tema niche kayak Synthesis MD nyari **specific architectural innovation** yang bisa mereka **adopt langsung** ke ecosystem mereka.
 {% endhint %}
 
-Ini berbeda dari hackathon umum:
+Beda dari hackathon umum:
 
 - ✅ Tema sangat sempit dan teknis
-- ✅ Bounty memiliki spesifikasi detail
-- ✅ Pemenang sering mendapat **follow-up grant** untuk implementasi penuh
-- ✅ Penyelenggara aktif dalam mentorship selama acara
+- ✅ Bounty punya detailed specification
+- ✅ Pemenang sering dapet **follow-up grant** buat full implementation
+- ✅ Sponsor aktif mentorship selama acara
 
 ---
 
 ## Sintesis Lintas Studi Kasus
 
-### Pola yang Konsisten di Tiga Program
+### Pola Konsisten di Tiga Program
 
 | Pola | Base Batches | Hedera Apex | Synthesis MD |
 |------|--------------|-------------|--------------|
 | Konvergensi AI + DeFi | ✅ | ✅ | ✅ |
-| Pasar besar yang ditarget | ✅ | ✅ | ⚠️ Niche |
-| Memanfaatkan fitur jaringan unik | ⚠️ | ✅ | ✅ |
-| Kebutuhan tim full-time | ✅ | ❌ | ❌ |
-| Spesifikasi RFP detail | ❌ | ⚠️ | ✅ |
+| Massive market targeting | ✅ | ✅ | ⚠️ Niche |
+| Manfaatin unique network feature | ⚠️ | ✅ | ✅ |
+| Tim full-time wajib | ✅ | ❌ | ❌ |
+| RFP spec detail | ❌ | ⚠️ | ✅ |
 
-### Tiga Insight Universal untuk 2026
+### Tiga Universal Insights untuk 2026
 
-1. **AI Agents adalah meta-narasi dominan** — Hadir di semua tiga program
-2. **Komposabilitas masih dihargai** — Semakin sering proyek dapat di-fork dan di-extend, semakin tinggi nilainya
-3. **Real-world impact mendapat bobot ekstra** — Yayasan dan VC sama-sama mengejar narasi yang dapat dijual ke regulator dan publik mainstream
+1. **AI Agents adalah dominant meta-narrative** — Hadir di semua tiga program
+2. **Composability masih dihargain** — Makin sering proyek bisa di-fork dan di-extend, makin tinggi nilainya
+3. **Real-world impact dapet bonus weight** — Foundation dan VC sama-sama ngejar narrative yang bisa dijual ke regulator dan mainstream public
 
 ### Tabel Pemilihan Program Berdasarkan Profil Tim
 
-| Profil Tim Anda | Program yang Disarankan |
+| Profil Tim Kamu | Program yang Disarankan |
 |-----------------|-------------------------|
-| Solo developer dengan keahlian AI/ML | Hedera Apex (Track AI & Agents) |
-| Tim 2-3 dengan MVP berjalan + pengguna | Base Batches (Akselerator) |
-| Tim research dengan latar belakang kriptografi | Synthesis MD (Bounty arsitektur) |
+| Solo developer dengan AI/ML expertise | Hedera Apex (Track AI & Agents) |
+| Tim 2-3 dengan working MVP + users | Base Batches (Accelerator) |
+| Tim research dengan cryptography background | Synthesis MD (Architecture bounties) |
 | Tim sustainability/impact | Hedera Apex (Track Sustainability) |
-| Tim DeFi quant dengan strategi unik | Base Batches atau ETHGlobal |
+| Tim DeFi quant dengan unique strategy | Base Batches atau ETHGlobal |
 
 ---
 
-*Lanjutkan ke [Bab 6: Panduan Teknis & Sumber Daya](chapter-6-sumber-daya.md) →*
+*Lanjutkan ke [Bab 6: Panduan Resource & Link Bantuan](chapter-6-sumber-daya.md) →*

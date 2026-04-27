@@ -1,154 +1,154 @@
 # Bab 3: Klasifikasi Struktur Hackathon
 
-## Tantangan, Bounty, dan Akselerator
+## Challenges, Bounties, dan Accelerators
 
-Setelah memahami profil penyelenggara, langkah berikutnya adalah mengidentifikasi **tipe program** yang diikuti. Struktur program menentukan tingkat kematangan proyek yang diperlukan dan sifat dari imbalan yang diberikan.
+Setelah ngerti profil sponsor, step berikutnya adalah identifikasi **tipe program** yang diikuti. Struktur program nentuin seberapa matang proyek yang dibutuhkan dan tipe reward yang dikasih.
 
-Di tahun 2026, terdapat spesialisasi yang jelas antara:
+Di 2026, ada spesialisasi yang jelas antara:
 
-1. **Program berbasis tugas** (Bounties)
-2. **Inovasi murni** (Innovation Challenges)
-3. **Pendanaan pertumbuhan** (Accelerators)
+1. **Task-based programs** (Bounties)
+2. **Pure innovation** (Innovation Challenges)
+3. **Growth funding** (Accelerators)
 
 ---
 
-## Tantangan Inovasi (Innovation Challenges)
+## Innovation Challenges (Tantangan Inovasi)
 
-Tantangan adalah format hackathon tradisional yang sering dijumpai pada acara seperti **ETHGlobal**.
+Format hackathon tradisional yang sering dijumpai di acara kayak **ETHGlobal**.
 
 ### Karakteristik
 
-- Dirancang untuk **memicu kreativitas dari titik nol**
-- Peserta harus membangun proyek **sepenuhnya dari awal** selama durasi acara
-- Fokus pada penemuan arsitektur baru atau teknologi eksperimental
-- Durasi tipikal: **48 jam hingga 4 minggu**
+- Dirancang buat **memicu kreativitas dari nol**
+- Peserta harus build **fully from scratch** selama acara
+- Fokus ke arsitektur baru atau eksperimental
+- Durasi tipikal: **48 jam sampai 4 minggu**
 
-### Kriteria Penilaian
+### Judging Criteria
 
-Juri dalam tantangan inovasi sangat menghargai:
+Juri di innovation challenge sangat ngehargain:
 
 | Faktor | Bobot Penilaian |
 |--------|----------------|
-| **Originality** (Kebaruan) | Tinggi |
-| **Technicality** (Kerumitan teknis) | Tinggi |
+| **Originality** (kebaruan) | Tinggi |
+| **Technicality** (kerumitan teknis) | Tinggi |
 | **Demo functionality** | Sedang |
 | **Business model** | Rendah |
 
 {% hint style="success" %}
-Proyek yang menang biasanya adalah **prototipe fungsional** yang mampu mendemonstrasikan kasus penggunaan baru yang belum pernah terpikirkan sebelumnya oleh penyelenggara ekosistem.
+Proyek yang menang biasanya **functional prototype** yang demo-in **use case baru** yang belum pernah dipikirin sponsor.
 {% endhint %}
 
 ---
 
-## Bounty Berbasis Tugas (Task-Based Bounties)
+## Task-Based Bounties (Bounty Berbasis Tugas)
 
-Bounty adalah insentif berbasis tugas yang ditawarkan untuk menyelesaikan **tantangan teknis yang sangat spesifik dan terdefinisi dengan baik**.
+**Bounty** adalah insentif berbasis tugas yang ditawarkan untuk nyelesain **technical challenge yang sangat spesifik**.
 
-### Tujuan Penyelenggara
+### Tujuan Sponsor
 
-Penyelenggara menggunakan bounty untuk melakukan *outsourcing* terhadap:
+Sponsor pake bounty buat **outsourcing**:
 
 - Pengembangan fitur tertentu
-- Perbaikan bug
-- Pembuatan alat pengembang (dev tooling)
+- **Bug fix**
+- **Dev tooling** baru
 
 ### Karakteristik
 
-Berbeda dengan tantangan inovasi:
+Beda dari innovation challenge:
 
-- **Tidak memerlukan proposal yang ekstensif**
-- Yang dibutuhkan hanyalah kemampuan untuk menyelesaikan tugas sesuai spesifikasi teknis
-- Cocok untuk pengembang individu atau tim kecil
+- **Ngga butuh proposal panjang**
+- Yang dibutuhin cuma kemampuan nyelesain task sesuai spec teknis
+- Cocok buat solo developer atau tim kecil
 
 ### Contoh Konkret
 
 {% hint style="info" %}
-Dalam hackathon **Hedera Apex 2026**, terdapat bounty spesifik untuk membangun **jaringan DePIN** di mana perangkat dapat menemukan satu sama lain melalui enkripsi P2P.
+Di **Hedera Apex 2026**, ada bounty spesifik buat build **DePIN network** di mana device bisa discover satu sama lain via **P2P encryption**.
 {% endhint %}
 
-### Kapan Memilih Bounty?
+### Kapan Pilih Bounty?
 
-Bounty ideal jika Anda:
+Bounty ideal kalau kamu:
 
-- Ingin **bayaran cepat** untuk skill spesifik
-- Sedang **membangun reputasi** dalam suatu ekosistem
-- Memiliki keahlian niche yang sesuai dengan permintaan
-- Tidak memiliki waktu untuk komitmen jangka panjang
+- Mau **payment cepat** untuk skill spesifik
+- Lagi **bangun reputasi** di suatu ekosistem
+- Punya keahlian niche yang sesuai demand
+- Ngga punya waktu buat komitmen jangka panjang
 
 ---
 
-## Akselerator dan Pendanaan (Accelerators)
+## Accelerators dan Funding
 
-Program akselerator seperti **Base Batches** atau **Binance Labs Incubation Program** berada pada **level yang berbeda secara fundamental**.
+Program accelerator kayak **Base Batches** atau **Binance Labs Incubation Program** ada di **level yang beda secara fundamental**.
 
 {% hint style="danger" %}
-**Akselerator BUKAN tempat untuk mencari ide.** Akselerator adalah tempat untuk **menskalakan ide yang sudah memiliki validasi**.
+**Accelerator BUKAN tempat buat nyari ide.** Accelerator adalah tempat buat **scale-up ide yang udah validated**.
 {% endhint %}
 
 ### Persyaratan Masuk
 
-Penyelenggara mencari tim yang sudah memiliki:
+Sponsor cari tim yang udah punya:
 
-- **Produk yang berjalan (MVP)**
-- **Traksi awal** (pengguna aktif atau Total Value Locked)
-- **Rencana Go-to-Market (GTM)** yang matang
-- **Tim pendiri yang berkomitmen full-time**
+- **Working product (MVP)**
+- **Early traction** (active users atau Total Value Locked)
+- **GTM (go-to-market) plan** yang matang
+- **Tim founder full-time**
 
-### Apa yang Diberikan?
+### Apa yang Dikasih?
 
-Fokus akselerator adalah pada **kesiapan investasi**. Mereka menyediakan:
+Fokus accelerator: **investment readiness**. Mereka nyediain:
 
 | Layanan | Detail |
 |---------|--------|
-| Mentorship intensif | 6 hingga 24 minggu |
-| Akses jaringan investor | VC, angel investors, ecosystem partners |
-| Investasi langsung | Ekuitas atau token |
-| Co-marketing | Distribusi melalui channel resmi |
+| Mentorship intensif | 6 sampai 24 minggu |
+| Investor network access | VC, angel investors, ecosystem partners |
+| Direct investment | Equity atau token |
+| Co-marketing | Distribusi via official channel |
 
 ### Tingkat Selektivitas
 
 {% hint style="warning" %}
-**Base Batches 003** menyaring lebih dari **1.100 aplikasi** hanya untuk memilih **12 tim** yang dianggap memiliki potensi paling besar untuk mendorong ekonomi on-chain. Tingkat penerimaan: **~1%**.
+**Base Batches 003** filter lebih dari **1.100 aplikasi** cuma buat pilih **12 tim**. **Acceptance rate: ~1%**.
 {% endhint %}
 
-Dalam konteks ini, ide hackathon harus sudah berkembang menjadi **visi bisnis yang berkelanjutan**.
+Di konteks ini, ide hackathon harus udah berkembang jadi **sustainable business vision**.
 
 ---
 
 ## Tabel Perbandingan: Tiga Struktur Program
 
-| Fitur | Tantangan Inovasi | Bounty | Akselerator |
-|-------|-------------------|--------|-------------|
-| **Titik Awal** | Ide baru, mulai dari nol | Masalah spesifik dari penyelenggara | Produk berjalan (MVP) + Traksi |
-| **Tujuan Peserta** | Eksperimentasi & Inovasi | Upah untuk tugas teknis | Skalabilitas & Pendanaan VC |
-| **Kebutuhan GTM** | Tidak wajib, namun disukai | Tidak diperlukan | Wajib dan harus detail |
-| **Durasi** | 48 jam - 4 minggu | Berbasis penyelesaian tugas | 2 - 6 bulan |
-| **Tingkat Selektivitas** | Sedang | Rendah - Sedang | Sangat Tinggi (~1%) |
-| **Imbalan Tipikal** | Hadiah tunai $1K - $50K | $500 - $25K per bounty | Investasi $50K - $500K |
-| **Komitmen Tim** | Part-time saat acara | Fleksibel | **Full-time wajib** |
+| Fitur | Innovation Challenge | Bounty | Accelerator |
+|-------|---------------------|--------|-------------|
+| **Starting point** | Ide baru, dari nol | Specific problem dari sponsor | Working product (MVP) + traction |
+| **Tujuan peserta** | Eksperimentasi & inovasi | Payment buat task teknis | Scalability & VC funding |
+| **Kebutuhan GTM** | Optional, tapi dihargain | Ngga perlu | Wajib & detail |
+| **Durasi** | 48 jam - 4 minggu | Berbasis penyelesaian task | 2 - 6 bulan |
+| **Selektivitas** | Sedang | Rendah - sedang | Sangat tinggi (~1%) |
+| **Reward tipikal** | $1K - $50K cash prize | $500 - $25K per bounty | Investment $50K - $500K |
+| **Komitmen tim** | Part-time saat acara | Fleksibel | **Full-time wajib** |
 
 ---
 
-## Memilih Struktur yang Tepat
+## Cara Pilih Struktur yang Tepat
 
-Gunakan flowchart pengambilan keputusan ini:
+Pakai decision flow ini:
 
 ```
-Apakah Anda memiliki MVP berjalan dengan traksi?
+Apakah kamu punya MVP berjalan dengan traction?
 ├── YA → Apakah tim full-time?
-│   ├── YA → Akselerator (Base Batches, Binance MVB)
-│   └── TIDAK → Bangun traksi dulu, atau ikuti Tantangan
-└── TIDAK → Apakah Anda punya keahlian spesifik?
+│   ├── YA → Accelerator (Base Batches, Binance MVB)
+│   └── TIDAK → Bangun traction dulu, atau ikut Challenge
+└── TIDAK → Apakah kamu punya keahlian spesifik?
     ├── YA → Cari Bounty yang cocok
-    └── TIDAK → Tantangan Inovasi (ETHGlobal)
+    └── TIDAK → Innovation Challenge (ETHGlobal)
 ```
 
 ## Kesalahan Umum dalam Memilih Struktur
 
-1. **Mengirim proyek eksperimental ke akselerator** — Akan ditolak karena tidak ada traksi
-2. **Mengikuti tantangan dengan ekspektasi pendanaan VC** — Hadiah tantangan adalah hibah, bukan investasi
-3. **Mengerjakan bounty tanpa membaca spesifikasi** — Submisi tidak akan dibayar jika tidak sesuai requirement
-4. **Mendaftar akselerator tanpa tim full-time** — Diskualifikasi otomatis pada banyak program
+1. **Submit proyek eksperimental ke accelerator** — Ditolak karena ngga ada traction
+2. **Ikut challenge dengan ekspektasi VC funding** — Prize challenge itu grant, bukan investment
+3. **Ngerjain bounty tanpa baca spec** — Submission ngga dibayar kalau ngga match requirement
+4. **Daftar accelerator tanpa tim full-time** — Auto-disqualified di banyak program
 
 ---
 

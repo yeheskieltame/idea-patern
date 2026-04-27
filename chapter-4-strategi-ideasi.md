@@ -1,38 +1,42 @@
 # Bab 4: Strategi Penentuan Ide
 
-## Menyelaraskan Kreativitas dengan Kesenjangan Ekosistem
+## Selaraskan Kreativitas dengan Ecosystem Gaps
 
-Menentukan ide hackathon yang menang memerlukan metodologi yang **melampaui sekadar mengikuti tren**. Berdasarkan analisis terhadap praktik terbaik dari **Alchemy** dan penyelenggara besar lainnya, strategi ideasi yang efektif harus didasarkan pada:
+Nentuin ide hackathon yang menang butuh metodologi yang **lebih dari sekadar ngikutin tren**. Berdasarkan praktik dari **Alchemy** dan sponsor besar lainnya, strategi ideasi yang efektif harus bersandar pada:
 
-1. Identifikasi **"titik sakit" (pain points)** yang nyata
-2. Penyelarasan dengan **prioritas teknis penyelenggara**
-3. Validasi pasar yang **terbukti**
+1. Identifikasi **pain points** yang nyata
+2. Alignment dengan **technical priority** sponsor
+3. **Market validation** yang terbukti
+
+{% hint style="info" %}
+Untuk workflow brainstorming langkah-demi-langkah pakai Grok, Claude, dan Gemini, langsung lompat ke [Bab 9: Cheatsheet Brainstorming](chapter-9-cheatsheet-brainstorming.md). Bab ini fokus ke **kerangka konseptual**, bab 9 fokus ke **eksekusi praktis**.
+{% endhint %}
 
 ---
 
-## Pendekatan Berbasis Wishlist dan RFP
+## Wishlist dan RFP Approach
 
-Bagi pembangun yang ingin **meminimalkan risiko penolakan**, cara paling aman adalah membangun sesuatu yang **sudah diminta oleh ekosistem**.
+Buat builder yang mau **minimize rejection risk**, cara paling aman: build sesuatu yang **udah diminta ekosistem**.
 
 ### Cara Kerja Wishlist
 
-Banyak yayasan rantai publik mempublikasikan **"Wishlist"** atau RFP yang merinci alat atau infrastruktur yang sangat mereka butuhkan.
+Banyak foundation publish **Wishlist** atau **RFP** yang spesifik tentang tooling atau infrastruktur yang mereka butuhin.
 
 {% hint style="info" %}
-**Ethereum Foundation ESP Wishlist** menekankan kebutuhan akan alat pengembang yang ada (existing tooling), seperti:
-- Compiler
-- Framework pengujian
-- Infrastruktur abstraksi akun
+**Ethereum Foundation ESP Wishlist** ngehighlight kebutuhan akan **existing tooling** kayak:
+- **Compiler**
+- **Testing framework**
+- **Account abstraction infrastructure**
 {% endhint %}
 
-### Keuntungan Pendekatan Ini
+### Keuntungan Approach Ini
 
-Membangun solusi untuk item dalam wishlist memberikan **jaminan**:
+Build solusi dari item wishlist kasih jaminan:
 
-- ✅ Ada audiens juri yang sudah menunggu solusi
-- ✅ Kebutuhan sudah divalidasi oleh ekosistem
-- ✅ Risiko penolakan karena "tidak relevan" sangat rendah
-- ✅ Potensi follow-up grant lebih tinggi
+- ✅ Ada **judging audience** yang udah nungguin solusi
+- ✅ Kebutuhan udah divalidasi sama ekosistem
+- ✅ Risk ditolak karena "ngga relevan" sangat rendah
+- ✅ Potensi **follow-up grant** lebih tinggi
 
 ### Daftar Sumber Wishlist Aktif 2026
 
@@ -43,133 +47,147 @@ Membangun solusi untuk item dalam wishlist memberikan **jaminan**:
 | Base | Coinbase Ventures Thesis | Triwulanan |
 | Hedera | Hedera Apex Track Briefs | Per event |
 
----
-
-## Kerangka Kerja Ideasi Alchemy
-
-**Alchemy** menyarankan kerangka kerja **tujuh langkah** untuk merumuskan ide hackathon yang kuat.
-
-### Langkah 1: Gunakan Alat Web3 Terbaru dari Sponsor
-
-Penyelenggara ingin melihat **teknologi baru mereka diuji secara praktis**. Membangun di atas tooling terbaru sponsor memberikan sinyal positif kepada juri.
-
-### Langkah 2: Cari Keluhan Publik
-
-Pantau platform sosial untuk menemukan *pain points*:
-
-- **Twitter/X** — Pencarian dengan keyword "frustrating", "broken", "wish there was"
-- **Discord** — Saluran `#suggestions` di komunitas protokol
-- **GitHub Issues** — Repositori populer dengan label `enhancement` atau `help wanted`
-
-### Langkah 3: Identifikasi Celah Fungsionalitas
-
-Dengan memantau saluran #suggestions atau diskusi teknis di GitHub, tim dapat menemukan **celah fungsionalitas** dalam aplikasi yang populer saat ini.
-
-### Langkah 4: Bangun "Building Blocks"
+### Tips: Cari Resource LLM-Friendly Sebelum Build
 
 {% hint style="success" %}
-Ide yang paling bernilai sering kali merupakan **"blok bangunan" (building blocks)** yang bersifat **komposabel**, artinya proyek tersebut dapat digunakan oleh pengembang lain untuk membangun sesuatu yang lebih besar.
+**Sebelum mulai build**, cek apakah protocol target punya resource LLM-friendly. Ini bikin AI assistant kamu (Claude, Gemini, Cursor, dll) jauh lebih akurat.
+
+Yang dicari:
+- **`llms.txt` / `llms-full.txt`** di root domain docs
+- **Claude Skills** atau **Cursor rules** resmi
+- **MCP server** untuk RPC, GitHub, atau docs
+
+Detail di [Bab 9](chapter-9-cheatsheet-brainstorming.md).
 {% endhint %}
 
-### Langkah 5: Validasi dengan Komunitas
+---
 
-Sebelum menulis kode, posting ide di forum atau Discord untuk mendapatkan feedback awal.
+## Alchemy Ideation Framework
+
+**Alchemy** nyaranin framework **7 langkah** untuk nyusun ide hackathon yang kuat.
+
+### Langkah 1: Pakai Tooling Web3 Terbaru dari Sponsor
+
+Sponsor mau liat **tech baru mereka diuji praktis**. Build di atas tooling terbaru sponsor kasih sinyal positif ke juri.
+
+### Langkah 2: Cari Public Complaints
+
+Pantau platform sosial buat nemu **pain points**:
+
+- **Twitter/X** — Search keyword: "frustrating", "broken", "wish there was", "kenapa belum ada"
+- **Discord** — Channel `#suggestions` di komunitas protocol
+- **GitHub Issues** — Repo populer dengan label `enhancement` atau `help wanted`
+
+### Langkah 3: Identifikasi Functionality Gaps
+
+Lewat monitoring channel `#suggestions` atau diskusi teknis di GitHub, tim bisa nemuin **functionality gaps** di aplikasi populer saat ini.
+
+### Langkah 4: Build "Building Blocks"
+
+{% hint style="success" %}
+Ide paling bernilai sering kali adalah **building blocks** yang **composable** — proyek yang bisa dipake developer lain buat build sesuatu yang lebih besar.
+{% endhint %}
+
+### Langkah 5: Validasi ke Komunitas
+
+Sebelum nulis code, post ide di forum atau Discord buat dapet **early feedback**.
 
 ### Langkah 6: Cek Kompetitor
 
-Cari di **DoraHacks** dan **ETHGlobal Showcase** apakah ide serupa sudah dibangun. Jika ada, tentukan **diferensiasi unik** Anda.
+Search di **DoraHacks** dan **ETHGlobal Showcase** apakah ide serupa udah ada. Kalau udah, tentuin **unique differentiator** kamu.
 
-### Langkah 7: Selaraskan dengan Track Hadiah
+### Langkah 7: Align ke Prize Tracks
 
-Setiap hackathon memiliki track tematik. Pastikan ide Anda **memenuhi 2-3 track sekaligus** untuk memaksimalkan peluang hadiah berlapis.
+Tiap hackathon punya track tematik. Pastiin ide kamu **memenuhi 2-3 track sekaligus** buat maximize **layered prize**.
 
 ---
 
-## Validasi Pasar dan Kesiapan GTM
+## Market Validation dan GTM
 
-Jika targetnya adalah **program akselerator**, ide tersebut harus didukung oleh **bukti validasi pasar**.
+Kalau target accelerator, ide harus didukung **market validation evidence**.
 
 ### Kriteria Coinbase Ventures (Base Batches)
 
-Penyelenggara seperti **Coinbase Ventures** melalui Base Batches mengevaluasi tim berdasarkan:
+**Coinbase Ventures** lewat Base Batches evaluasi tim berdasarkan:
 
 #### "Demonstrated Mastery"
 
-Apakah tim memiliki **wawasan unik atau hak milik (proprietary insights)** tentang pasar mereka?
+Apakah tim punya **proprietary insights** soal market mereka?
 
 - Pengalaman langsung di industri yang dilayani
-- Data atau riset yang tidak dimiliki kompetitor
-- Hubungan dengan pengguna awal yang membutuhkan solusi
+- Data atau riset yang ngga dimiliki kompetitor
+- Hubungan sama early users yang butuh solusi
 
 #### "Velocity"
 
 Kecepatan tim dalam:
 
-- Melakukan pengiriman produk (shipping)
-- Menguji strategi pertumbuhan
-- Iterasi berdasarkan feedback pengguna
+- **Shipping** product
+- Testing growth strategy
+- Iterasi berdasarkan user feedback
 
-### Komponen Wajib Rencana GTM
+### Komponen Wajib GTM Plan
 
-Dalam proposal akselerator, rencana GTM harus mencakup tiga komponen kritis:
+Di proposal accelerator, GTM plan harus mencakup tiga komponen kritis:
 
-#### 1. Profil Pelanggan Ideal (ICP)
+#### 1. Ideal Customer Profile (ICP)
 
-> Siapa pengguna pertama yang akan **membayar atau menggunakan** produk ini secara konsisten?
+> Siapa user pertama yang bakal **pay atau use** product ini secara konsisten?
 
 Spesifikasi ICP harus mencakup:
 
 - Demografi/psikografi yang jelas
-- Pain point spesifik yang dialami
-- Channel akuisisi yang dapat diukur
-- Willingness to pay (jika produk berbayar)
+- Pain point spesifik yang dialamin
+- **Acquisition channel** yang measurable
+- **Willingness to pay** (kalau berbayar)
 
-#### 2. Pernyataan Misi yang Unik
+#### 2. Unique Mission Statement
 
-> Mengapa perusahaan ini perlu ada dan apa **masalah spesifik** yang mereka selesaikan yang **tidak bisa diselesaikan oleh kompetitor**?
+> Kenapa company ini perlu ada dan apa **specific problem** yang mereka pecahin yang **ngga bisa dipecahin kompetitor**?
 
-Hindari pernyataan generik seperti "kami mendemokratisasi keuangan." Spesifikasikan dengan tajam.
+Hindari pernyataan generik kayak "kami democratize finance." Spesifikasiin dengan tajem.
 
-#### 3. Metrik Kesuksesan
+#### 3. Success Metrics
 
-> Bagaimana proyek akan mengukur pertumbuhan?
+> Gimana proyek bakal ngukur growth?
 
-Metrik tipikal yang diakui:
+Metrics tipikal yang diakui:
 
-| Vertikal | Metrik Utama |
-|----------|--------------|
-| DeFi | TVL, Volume Transaksi, Fee Generated |
-| Konsumen | DAU/MAU, Retensi 30-hari, NPS |
-| Infrastruktur | API Calls, Developer Adoption, Integration Partners |
-| Pasar Prediksi | Open Interest, Trading Volume, Resolution Accuracy |
+| Vertikal | Key Metrics |
+|----------|-------------|
+| **DeFi** | TVL, transaction volume, fee generated |
+| **Consumer** | DAU/MAU, 30-day retention, NPS |
+| **Infrastructure** | API calls, developer adoption, integration partners |
+| **Prediction markets** | Open interest, trading volume, resolution accuracy |
 
 ---
 
-## Matriks Ideasi: Memilih Vertikal yang Tepat
+## Matriks Ideasi: Pilih Vertikal yang Tepat
 
-Gunakan matriks berikut untuk memprioritaskan ide berdasarkan **maturitas tim** dan **timing pasar**:
+Pakai matriks ini buat prioritas ide berdasarkan **maturitas tim** dan **market timing**:
 
-| Vertikal | Maturitas Pasar 2026 | Tingkat Kompetisi | Rekomendasi |
+| Vertikal | Market Maturity 2026 | Tingkat Kompetisi | Rekomendasi |
 |----------|----------------------|-------------------|-------------|
-| AI Agents Payments | Awal (high upside) | Rendah | ⭐⭐⭐ Sangat direkomendasikan |
-| Stablecoin Infrastructure | Matang | Tinggi | ⭐⭐ Butuh diferensiasi kuat |
-| RWA Tokenization | Berkembang | Sedang | ⭐⭐⭐ Sweet spot |
-| Privacy/zk Apps | Awal-menengah | Sedang | ⭐⭐⭐ Strategis |
-| Generic DeFi | Saturasi | Sangat Tinggi | ⭐ Hindari kecuali ada inovasi besar |
-| Pasar Prediksi | Berkembang cepat | Tinggi | ⭐⭐ Membutuhkan distribusi unik |
+| **AI Agents Payments** | Awal (high upside) | Rendah | ⭐⭐⭐ Sangat direkomendasiin |
+| **Stablecoin Infrastructure** | Matang | Tinggi | ⭐⭐ Butuh diferensiasi kuat |
+| **RWA Tokenization** | Berkembang | Sedang | ⭐⭐⭐ Sweet spot |
+| **Privacy / zk Apps** | Awal-menengah | Sedang | ⭐⭐⭐ Strategis |
+| **Generic DeFi** | Saturasi | Sangat tinggi | ⭐ Hindari kecuali ada inovasi besar |
+| **Prediction Markets** | Berkembang cepat | Tinggi | ⭐⭐ Butuh distribusi unik |
 
 ---
 
-## Checklist Sebelum Memulai Coding
+## Checklist Sebelum Mulai Coding
 
-Sebelum menulis baris kode pertama, pastikan ide Anda memenuhi:
+Sebelum nulis baris code pertama, pastiin ide kamu memenuhi:
 
-- [ ] Selaras dengan minimal **satu wishlist atau RFP** dari penyelenggara
-- [ ] Memiliki **diferensiasi yang jelas** dari proyek serupa di showcase
-- [ ] Dapat di-demo dalam **2-4 menit video**
-- [ ] Memenuhi minimal **2 track hadiah** secara bersamaan
-- [ ] Memiliki **satu metrik kesuksesan** yang dapat ditampilkan saat demo
-- [ ] Tim memiliki **proprietary insight** tentang masalah yang dipecahkan
+- [ ] Align minimal **satu wishlist atau RFP** dari sponsor
+- [ ] Punya **clear differentiation** dari proyek serupa di showcase
+- [ ] Bisa di-demo dalam **2-4 menit video**
+- [ ] Memenuhi minimal **2 prize tracks** sekaligus
+- [ ] Punya **satu success metric** yang bisa ditampilin saat demo
+- [ ] Tim punya **proprietary insight** soal masalah yang dipecahin
+- [ ] Udah cek `llms.txt` / Skills / MCP buat tech stack yang dipake
 
 ---
 

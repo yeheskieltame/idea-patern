@@ -6,41 +6,51 @@
 
 * [Bab 1: Pendahuluan & Evolusi Hackathon Web3](chapter-1-pendahuluan.md)
 * [Bab 2: Taksonomi Penyelenggara](chapter-2-taksonomi-penyelenggara.md)
-  * [2.1 Yayasan Rantai Publik](chapter-2-taksonomi-penyelenggara.md#yayasan-rantai-publik-dan-penyedia-infrastruktur)
-  * [2.2 Bursa Terpusat & Dana Ekosistem](chapter-2-taksonomi-penyelenggara.md#bursa-terpusat-dan-dana-ekosistem)
-  * [2.3 Protokol DeFi & Aplikasi Spesifik](chapter-2-taksonomi-penyelenggara.md#protokol-defi-dan-aplikasi-spesifik)
+  * [2.1 Foundation (Yayasan Rantai Publik)](chapter-2-taksonomi-penyelenggara.md#foundation-rantai-publik-dan-penyedia-infrastruktur)
+  * [2.2 Exchange & Ecosystem Funds](chapter-2-taksonomi-penyelenggara.md#exchange-dan-ecosystem-funds)
+  * [2.3 DeFi Protocol & Aplikasi Spesifik](chapter-2-taksonomi-penyelenggara.md#defi-protocol-dan-aplikasi-spesifik)
 
 ## Bagian II: Struktur Program
 
 * [Bab 3: Klasifikasi Struktur Hackathon](chapter-3-struktur-program.md)
-  * [3.1 Tantangan Inovasi](chapter-3-struktur-program.md#tantangan-inovasi-innovation-challenges)
-  * [3.2 Bounty Berbasis Tugas](chapter-3-struktur-program.md#bounty-berbasis-tugas-task-based-bounties)
-  * [3.3 Akselerator & Pendanaan](chapter-3-struktur-program.md#akselerator-dan-pendanaan-accelerators)
+  * [3.1 Innovation Challenges](chapter-3-struktur-program.md#innovation-challenges-tantangan-inovasi)
+  * [3.2 Task-Based Bounties](chapter-3-struktur-program.md#task-based-bounties-bounty-berbasis-tugas)
+  * [3.3 Accelerators & Funding](chapter-3-struktur-program.md#accelerators-dan-funding)
 
 ## Bagian III: Strategi Ideasi
 
 * [Bab 4: Strategi Penentuan Ide](chapter-4-strategi-ideasi.md)
-  * [4.1 Pendekatan Wishlist & RFP](chapter-4-strategi-ideasi.md#pendekatan-berbasis-wishlist-dan-rfp)
-  * [4.2 Kerangka Kerja Alchemy](chapter-4-strategi-ideasi.md#kerangka-kerja-ideasi-alchemy)
-  * [4.3 Validasi Pasar & GTM](chapter-4-strategi-ideasi.md#validasi-pasar-dan-kesiapan-gtm)
+  * [4.1 Wishlist & RFP Approach](chapter-4-strategi-ideasi.md#wishlist-dan-rfp-approach)
+  * [4.2 Alchemy Ideation Framework](chapter-4-strategi-ideasi.md#alchemy-ideation-framework)
+  * [4.3 Market Validation & GTM](chapter-4-strategi-ideasi.md#market-validation-dan-gtm)
 
-## Bagian IV: Studi Kasus & Sumber Daya
+## Bagian IV: Studi Kasus & Resource
 
 * [Bab 5: Studi Kasus Program 2026](chapter-5-studi-kasus.md)
-  * [5.1 Base Batches 003](chapter-5-studi-kasus.md#base-batches-003-fokus-pada-ekonomi-on-chain)
-  * [5.2 Hedera Apex 2026](chapter-5-studi-kasus.md#hedera-apex-2026-inovasi-dengan-dampak-dunia-nyata)
-  * [5.3 Synthesis MD](chapter-5-studi-kasus.md#synthesis-md-infrastruktur-untuk-agen-otonom)
-* [Bab 6: Panduan Teknis & Sumber Daya](chapter-6-sumber-daya.md)
-  * [6.1 Portal & Agregator Hackathon](chapter-6-sumber-daya.md#portal-hackathon-dan-agregator-peluang)
-  * [6.2 Dokumentasi Strategis & Thesis VC](chapter-6-sumber-daya.md#dokumentasi-strategis-dan-thesis-investasi)
+  * [5.1 Base Batches 003](chapter-5-studi-kasus.md#base-batches-003-fokus-pada-on-chain-economy)
+  * [5.2 Hedera Apex 2026](chapter-5-studi-kasus.md#hedera-apex-2026-real-world-impact)
+  * [5.3 Synthesis MD](chapter-5-studi-kasus.md#synthesis-md-infrastruktur-untuk-autonomous-agents)
+* [Bab 6: Panduan Resource & Link Bantuan](chapter-6-sumber-daya.md)
+  * [6.1 Hackathon Portals & Aggregators](chapter-6-sumber-daya.md#hackathon-portals-dan-aggregators)
+  * [6.2 Strategic Docs & VC Thesis](chapter-6-sumber-daya.md#strategic-docs-dan-vc-thesis)
 
 ## Bagian V: Eksekusi & Penutup
 
 * [Bab 7: Metodologi Eksekusi](chapter-7-eksekusi.md)
-  * [7.1 Struktur MVP](chapter-7-eksekusi.md#struktur-minimum-viable-product-mvp)
-  * [7.2 Presentasi & Demo Video](chapter-7-eksekusi.md#presentasi-dan-demo-video)
-  * [7.3 Kriteria Penilaian Juri](chapter-7-eksekusi.md#kriteria-penilaian-juri)
-* [Bab 8: Kesimpulan & Navigasi Masa Depan](chapter-8-kesimpulan.md)
+  * [7.1 MVP Structure](chapter-7-eksekusi.md#mvp-structure-minimum-viable-product)
+  * [7.2 Demo Video & Presentation](chapter-7-eksekusi.md#demo-video-dan-presentation)
+  * [7.3 Judging Criteria](chapter-7-eksekusi.md#judging-criteria)
+* [Bab 8: Kesimpulan & Roadmap](chapter-8-kesimpulan.md)
+
+## Bagian VI: Cheatsheet Praktis
+
+* [Bab 9: Cheatsheet Brainstorming Ide](chapter-9-cheatsheet-brainstorming.md)
+  * [Step 1: Sponsor Discovery](chapter-9-cheatsheet-brainstorming.md#step-1-riset-penyelenggara-sponsor-discovery)
+  * [Step 2: Tech Stack Discovery](chapter-9-cheatsheet-brainstorming.md#step-2-kumpulkan-docs-teknologi-tech-stack-discovery)
+  * [Step 3: Pain Points & Gaps](chapter-9-cheatsheet-brainstorming.md#step-3-identifikasi-pain-points-dan-gaps)
+  * [Step 4: Generate Ide dengan Grok](chapter-9-cheatsheet-brainstorming.md#step-4-brainstorm-garis-besar-ide-dengan-grok)
+  * [Step 5: Arsitektur dengan Claude/Gemini](chapter-9-cheatsheet-brainstorming.md#step-5-refine-arsitektur-dengan-claudegemini)
+  * [Step 6: Community Validation](chapter-9-cheatsheet-brainstorming.md#step-6-validasi-ide-dengan-komunitas)
 
 ## Lampiran
 

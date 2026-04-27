@@ -2,134 +2,141 @@
 
 ## Sintesis Strategi Hackathon 2026
 
-Menentukan ide hackathon di tahun 2026 **bukan lagi sekadar aktivitas kreatif yang terisolasi**, melainkan **latihan dalam strategi ekosistem**.
+Nentuin ide hackathon di 2026 **bukan lagi sekadar aktivitas kreatif yang terisolasi**, tapi **latihan dalam ecosystem strategy**.
 
-Dengan memahami bahwa:
+Dengan ngerti bahwa:
 
-- **Yayasan rantai publik** mencari ketahanan infrastruktur
-- **Bursa** mencari skalabilitas ekonomi
-- **Protokol DeFi** mencari komposabilitas
+- **Foundation rantai publik** nyari **infrastructure resilience**
+- **Exchange** nyari **economic scalability**
+- **DeFi protocol** nyari **composability**
 
-Para pembangun dapat **menyesuaikan narasi mereka** untuk memenuhi ekspektasi tersebut.
+Builder bisa **adjust narasi mereka** buat memenuhi ekspektasi sponsor.
 
 ---
 
-## Tiga Vertikal Berpeluang Tertinggi 2026
+## Tiga Vertikal dengan Peluang Tertinggi 2026
 
-Lanskap saat ini menunjukkan bahwa ide-ide yang menggabungkan tiga elemen ini memiliki **peluang pendanaan tertinggi** baik di jalur akselerator maupun tantangan inovasi:
+Lanskap saat ini nunjukin bahwa ide yang ngegabungin tiga elemen ini punya **highest funding probability** baik di accelerator track maupun innovation challenges:
 
-### 1. Kecerdasan Buatan (AI Agents)
+### 1. AI Agents
 
-Agen otonom sebagai aktor ekonomi on-chain — diakui oleh Coinbase, Lido, Hedera, dan banyak lainnya sebagai meta-narasi 2026.
+**Autonomous agents** sebagai aktor ekonomi on-chain — diakui Coinbase, Lido, Hedera, dan banyak lainnya sebagai **meta-narrative** 2026.
 
-### 2. Koin Stabil (Stablecoin Infrastructure)
+### 2. Stablecoin Infrastructure
 
-Pembayaran, lending, dan integrasi fiat — vertikal dengan PMF terbukti dan TAM yang masif.
+**Payments**, **lending**, dan integrasi fiat — vertikal dengan **PMF terbukti** dan TAM masif.
 
-### 3. Aset Dunia Nyata (RWA)
+### 3. Real World Assets (RWA)
 
-Tokenisasi aset komoditas, kredit, dan instrumen keuangan tradisional — bridge antara DeFi dan TradFi.
+Tokenisasi commodity, kredit, dan instrumen financial tradisional — **bridge antara DeFi dan TradFi**.
 
 {% hint style="success" %}
-**Konvergensi tiga vertikal ini** (misalnya: AI Agent yang melakukan settlement stablecoin untuk memperdagangkan RWA) sering menjadi **sweet spot** untuk submisi pemenang.
+**Konvergensi tiga vertikal ini** (contoh: AI Agent yang ngelakuin stablecoin settlement buat tradein RWA) sering jadi **sweet spot** buat winning submission.
 {% endhint %}
 
 ---
 
-## Profil Pembangun yang Sukses di 2026
+## Profil Builder yang Sukses di 2026
 
-Pembangun yang sukses adalah mereka yang mampu mendokumentasikan ide mereka **bukan hanya sebagai kode**, tetapi sebagai:
+Builder yang sukses adalah mereka yang bisa dokumentasi ide mereka **bukan cuma sebagai code**, tapi sebagai:
 
-> **Solusi untuk masalah nyata dengan rencana pertumbuhan yang jelas.**
+> **Solution untuk real problem dengan clear growth plan.**
 
 ### Karakteristik Pemenang
 
-1. **Strategis** — Memahami motivasi penyelenggara sebelum membangun
-2. **Komposabel** — Membangun building blocks, bukan silo
-3. **Terdokumentasi** — Submisi sama pentingnya dengan kode
-4. **Berorientasi pasar** — TAM dan ICP yang jelas
-5. **Adaptif** — Iterasi cepat berdasarkan feedback
+1. **Strategis** — Ngerti motivasi sponsor sebelum build
+2. **Composable** — Build building blocks, bukan silo
+3. **Documented** — Submission sama pentingnya sama code
+4. **Market-oriented** — TAM dan ICP yang jelas
+5. **Adaptive** — Iterasi cepat berdasarkan feedback
+6. **AI-augmented** — Manfaatin Grok, Claude, Gemini, MCP, llms.txt buat 10x velocity
 
 ---
 
-## Roadmap Pribadi: Dari Peserta ke Pendiri
+## Roadmap Pribadi: Dari Peserta ke Founder
 
-Dengan memanfaatkan sumber daya seperti:
+Manfaatin resource kayak:
 
-- **RFP Hub** — Untuk menemukan kebutuhan ekosistem
-- **Wishlist dari Ethereum Foundation** — Untuk validasi prioritas teknis
-- **Thesis dari Coinbase Ventures** — Untuk memahami pasar yang panas
+- **RFP Hub** — Buat nemuin ecosystem needs
+- **Wishlist Ethereum Foundation** — Buat validasi technical priority
+- **Coinbase Ventures Thesis** — Buat ngerti market yang lagi panas
+- **Bab 9 Cheatsheet** — Buat workflow brainstorming yang efisien
 
-Komunitas pengembang dapat **bertransformasi dari peserta hackathon menjadi pendiri startup** yang mendefinisikan **fase berikutnya dari internet terdesentralisasi**.
+Komunitas developer bisa **transform dari hackathon participant ke startup founder** yang ngedefinisiin **next phase of decentralized internet**.
 
 ### Tahapan Evolusi Builder Web3
 
 ```
 Tahap 1: Bounty Hunter
-└── Menyelesaikan tugas spesifik untuk reputasi & income
+└── Selesain specific tasks buat reputation & income
     └── Tahap 2: Hackathon Winner
-        └── Memenangkan tantangan inovasi & membangun portfolio
+        └── Menang innovation challenge & build portfolio
             └── Tahap 3: Grant Recipient
-                └── Mendapat hibah ekosistem untuk public goods
+                └── Dapet ecosystem grant buat public goods
                     └── Tahap 4: Accelerator Founder
-                        └── Skalakan menjadi startup dengan investasi VC
+                        └── Scale jadi startup dengan VC investment
                             └── Tahap 5: Ecosystem Leader
-                                └── Membangun protokol yang menjadi infrastruktur
+                                └── Build protocol yang jadi infrastructure
 ```
 
-### Timeline Realistis
+### Realistic Timeline
 
-Untuk pembangun yang baru memulai:
+Buat builder yang baru mulai:
 
-| Bulan | Aktivitas | Output yang Diharapkan |
-|-------|-----------|----------------------|
-| 1-2 | Riset ekosistem & belajar tooling | Pemahaman dasar 1-2 chain |
-| 3-4 | Submit bounties & hackathon kecil | $500 - $5K earnings |
-| 5-6 | Hackathon utama (ETHGlobal) | Win 1-2 track prizes |
-| 7-9 | Apply ke grants ekosistem | Mendapat ESP/foundation grant |
-| 10-12 | Apply ke akselerator dengan MVP | Masuk Base Batches/Binance MVB |
+| Bulan | Aktivitas | Expected Output |
+|-------|-----------|-----------------|
+| 1-2 | Riset ekosistem & belajar tooling | Pemahaman dasar 1-2 chains |
+| 3-4 | Submit bounties & small hackathon | $500 - $5K earnings |
+| 5-6 | Major hackathon (ETHGlobal) | Win 1-2 track prizes |
+| 7-9 | Apply ke ecosystem grants | Dapet ESP/foundation grant |
+| 10-12 | Apply ke accelerator dengan MVP | Masuk Base Batches/Binance MVB |
 
 ---
 
 ## Prinsip-Prinsip Kunci untuk Diingat
 
-### Prinsip 1: Selaraskan, Jangan Sekadar Berinovasi
+### Prinsip 1: Align, Jangan Cuma Innovate
 
-> Inovasi tanpa keselarasan ekosistem = ide yang tidak menemukan pasar.
+> Inovasi tanpa ecosystem alignment = ide yang ngga nemuin pasarnya.
 
 ### Prinsip 2: Eksekusi > Ambisi
 
-> Demo sederhana yang berfungsi mengalahkan visi grandiose yang gagal.
+> Demo simple yang berfungsi ngalahin grandiose vision yang gagal.
 
-### Prinsip 3: Dokumentasi adalah Produk
+### Prinsip 3: Documentation adalah Product
 
-> README dan video demo sama pentingnya dengan smart contract Anda.
+> README dan demo video sama pentingnya sama smart contract kamu.
 
 ### Prinsip 4: Komunitas adalah Modal
 
-> Networking di Discord, Farcaster, dan event fisik membuka peluang yang tidak terlihat.
+> Networking di Discord, Farcaster, dan event fisik buka peluang yang ngga keliatan.
 
 ### Prinsip 5: Iterasi Cepat
 
-> "Velocity" adalah salah satu kriteria utama akselerator. Build, ship, learn, repeat.
+> **"Velocity"** adalah salah satu kriteria utama accelerator. Build, ship, learn, repeat.
+
+### Prinsip 6: Pakai AI dengan Konteks yang Tepat
+
+> AI tanpa context yang bagus cuma generate generic code. Selalu cari `llms.txt`, MCP, dan Skills sebelum minta AI bantuin coding.
 
 ---
 
 ## Pesan Akhir
 
 {% hint style="info" %}
-Hackathon Web3 di tahun 2026 adalah **gerbang menuju ekosistem inovasi terbesar dalam sejarah teknologi**. Pembangun yang bijak tidak hanya menulis kode — mereka **memahami narasi**, **menyelaraskan dengan kebutuhan**, dan **mengeksekusi dengan disiplin**.
+Hackathon Web3 di 2026 adalah **gerbang ke ekosistem inovasi terbesar dalam sejarah teknologi**. Builder yang bijak ngga cuma nulis code — mereka **ngerti narasi**, **align dengan kebutuhan**, dan **execute dengan disiplin**.
 
-Panduan ini hanyalah peta. Perjalanan sesungguhnya dimulai saat Anda memilih hackathon pertama Anda dan mulai membangun.
+Panduan ini cuma peta. Perjalanan sesungguhnya dimulai pas kamu pilih hackathon pertama dan mulai build.
 {% endhint %}
 
-### Langkah Selanjutnya untuk Anda
+### Langkah Selanjutnya untuk Kamu
 
-1. ✅ Identifikasi **satu vertikal** yang sesuai dengan keahlian Anda
-2. ✅ Cek **wishlist atau RFP** yang sesuai dari penyelenggara target
-3. ✅ Pilih **satu hackathon** dalam 30 hari ke depan untuk diikuti
-4. ✅ Bentuk **tim** atau apply solo dengan bounty kecil
-5. ✅ **Mulai membangun** — momentum mengalahkan perfeksionisme
+1. ✅ Identifikasi **satu vertikal** yang sesuai expertise kamu
+2. ✅ Cek **wishlist atau RFP** dari sponsor target
+3. ✅ Buka **[Bab 9: Cheatsheet Brainstorming](chapter-9-cheatsheet-brainstorming.md)** dan jalankan **Step 1-6**
+4. ✅ Pilih **satu hackathon** dalam 30 hari ke depan
+5. ✅ Bentuk **tim** atau apply solo dengan small bounty
+6. ✅ **Mulai build** — momentum ngalahin perfectionism
 
 ---
 
@@ -137,8 +144,8 @@ Panduan ini hanyalah peta. Perjalanan sesungguhnya dimulai saat Anda memilih hac
 
 > *"The best way to predict the future is to build it."* — Alan Kay
 
-Selamat membangun, dan semoga panduan ini menjadi titik awal yang berguna dalam perjalanan Anda di ekosistem Web3.
+Selamat building, dan semoga panduan ini jadi titik awal yang berguna dalam perjalanan kamu di ekosistem Web3.
 
 ---
 
-*Kembali ke [Daftar Isi](SUMMARY.md) | Lanjut ke [Glosarium →](glossary.md)*
+*Kembali ke [Daftar Isi](SUMMARY.md) | Lanjut ke [Bab 9: Cheatsheet Brainstorming](chapter-9-cheatsheet-brainstorming.md) | [Glosarium](glossary.md)*

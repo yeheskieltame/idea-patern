@@ -1,59 +1,59 @@
 # Bab 1: Pendahuluan & Evolusi Hackathon Web3
 
-## Dari Kompetisi Akhir Pekan ke Mesin Pertumbuhan Strategis
+## Dari Lomba Akhir Pekan ke Strategic Growth Engine
 
-Evolusi pembangunan ekosistem blockchain telah mencapai titik di mana hackathon tidak lagi sekadar kompetisi pemrograman intensif akhir pekan, melainkan telah bertransformasi menjadi **mesin pertumbuhan strategis yang sangat terstruktur**.
+Dulu hackathon Web3 cuma kompetisi coding 48 jam. Sekarang, dia udah berubah jadi **strategic growth engine** yang sangat terstruktur.
 
-Dalam lanskap Web3 kontemporer, hackathon berfungsi sebagai jembatan kritis antara ideasi tahap awal dengan ekosistem modal ventura yang matang. Fenomena ini didorong oleh kebutuhan mendesak dari berbagai entitas—mulai dari yayasan rantai publik hingga bursa terpusat—untuk:
+Hackathon modern berperan sebagai jembatan antara **early-stage ideation** sama ekosistem **venture capital** yang matang. Foundation, exchange, sampai DeFi protocol semua pakai hackathon untuk:
 
-- Mengisi kesenjangan teknis dalam peta jalan mereka
-- Mempercepat adopsi pengguna secara masal
-- Menemukan tim pendiri berkualitas tinggi sebelum kompetitor
+- Nutupin gap teknis di **roadmap** mereka
+- Mempercepat **user adoption**
+- Cari tim founder berkualitas tinggi sebelum kompetitor nyamber duluan
 
-## Mengapa Pemahaman Strategis Penting?
+## Kenapa Pemahaman Strategis Itu Penting?
 
 {% hint style="warning" %}
-Memahami dinamika ini memerlukan analisis mendalam terhadap **motivasi penyelenggara**, **struktur program yang ditawarkan**, serta **kriteria maturitas proyek** yang diharapkan agar para pembangun (builders) dapat menentukan ide yang memiliki peluang kemenangan dan pendanaan tertinggi.
+Buat ngerti dinamika ini, kamu butuh analisis: **motivasi penyelenggara**, **struktur program**, dan **kriteria maturitas proyek**. Tanpa ini, ide kamu bisa kuat secara teknis tapi tetap kalah karena ngga align sama yang dicari sponsor.
 {% endhint %}
 
-Tanpa pemahaman strategis ini, banyak tim:
+Tanpa pemahaman strategis, banyak tim:
 
-1. **Mengirimkan ide yang tidak relevan** dengan visi penyelenggara
-2. **Salah memilih kategori** (mengirim ide eksperimental ke akselerator yang mencari MVP)
-3. **Gagal menyampaikan narasi** yang sesuai dengan kriteria penilaian
-4. **Kehilangan peluang pendanaan** karena tidak menyiapkan dokumen GTM
+1. **Submit ide yang ngga relevan** sama vision sponsor
+2. **Salah pilih kategori** (kirim ide eksperimental ke accelerator yang nyari MVP)
+3. **Gagal nyusun narasi** yang sesuai judging criteria
+4. **Kehilangan funding** karena ngga siapin **GTM (go-to-market)** plan
 
 ## Tiga Pilar Pemahaman Hackathon Modern
 
-Panduan ini dibangun di atas tiga pilar utama yang harus dikuasai setiap pembangun Web3:
+Tiga pertanyaan dasar yang harus kamu jawab sebelum mulai build:
 
-### 1. Siapa Penyelenggaranya? (Bab 2)
+### 1. Siapa Sponsor-nya? (Bab 2)
 
-Yayasan, bursa, dan protokol DeFi memiliki **motivasi yang sangat berbeda**. Yayasan mencari ketahanan jaringan jangka panjang, bursa mencari skalabilitas pengguna, sementara protokol DeFi mencari komposabilitas.
+Foundation, exchange, dan DeFi protocol punya **motivasi yang beda jauh**. Foundation nyari **long-term network resilience**. Exchange nyari **scalability** dan growth user. DeFi protocol nyari **composability**.
 
-### 2. Apa Struktur Programnya? (Bab 3)
+### 2. Apa Struktur Program-nya? (Bab 3)
 
-Program berkisar dari **tantangan inovasi 48 jam** hingga **akselerator 6 bulan**. Setiap struktur memiliki ekspektasi maturitas yang berbeda secara fundamental.
+Range-nya dari **innovation challenge 48 jam** sampai **accelerator 6 bulan**. Tiap struktur punya ekspektasi maturity yang beda secara fundamental.
 
-### 3. Bagaimana Menyusun Ide yang Selaras? (Bab 4)
+### 3. Gimana Cara Nyusun Ide yang Align? (Bab 4 & 9)
 
-Ide yang menang di tahun 2026 bukan ide yang paling kreatif secara absolut, melainkan ide yang **paling selaras dengan kesenjangan ekosistem** yang telah didokumentasikan oleh penyelenggara.
+Ide yang menang di 2026 bukan ide paling kreatif, tapi ide yang **paling align sama gap ekosistem** yang udah didokumentasikan sponsor.
 
-## Tren Utama yang Membentuk Hackathon 2026
+## Tren Utama Hackathon 2026
 
-Lanskap saat ini didominasi oleh konvergensi tiga vertikal:
+Lanskap saat ini didominasi konvergensi tiga vertikal:
 
 | Vertikal | Deskripsi | Contoh Proyek |
 |----------|-----------|---------------|
-| **AI Agents** | Agen otonom sebagai aktor ekonomi on-chain | Blockrun.ai, stETH Agent Treasury |
-| **Stablecoin Infrastructure** | Pembayaran, lending, dan rails fiat | Tomorrow, Credifi |
+| **AI Agents** | Autonomous agents sebagai aktor ekonomi on-chain | Blockrun.ai, stETH Agent Treasury |
+| **Stablecoin Infrastructure** | Payments, lending, fiat rails | Tomorrow, Credifi |
 | **Real World Assets (RWA)** | Tokenisasi aset dunia nyata | Hedera DeFi Track |
 
-## Kerangka Berpikir untuk Bab Selanjutnya
+## Mindset untuk Bab Selanjutnya
 
-Sebelum melanjutkan, internalisasi prinsip ini:
+Sebelum lanjut, internalisasi prinsip ini:
 
-> **Hackathon adalah pasar dua sisi.** Penyelenggara "membeli" inovasi yang menyelesaikan masalah mereka. Pembangun "menjual" solusi yang sesuai dengan permintaan tersebut. Kemenangan terjadi saat ada kecocokan supply-demand yang akurat.
+> **Hackathon adalah two-sided market.** Sponsor "beli" inovasi yang nyelesain masalah mereka. Builder "jual" solusi yang sesuai permintaan. Kemenangan terjadi pas ada **supply-demand matching** yang akurat.
 
 ---
 

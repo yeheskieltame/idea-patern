@@ -1,169 +1,193 @@
-# Bab 6: Panduan Teknis — Sumber Daya dan Link Bantuan
+# Bab 6: Panduan Resource — Link & Sumber Bantuan
 
-Untuk menyusun dokumentasi ide yang komprehensif, para pengembang dapat merujuk pada **direktori dan sumber daya** berikut yang terus diperbarui di tahun 2026.
+Untuk nyusun dokumentasi ide yang komprehensif, developer bisa refer ke **direktori dan resource** berikut yang terus di-update di 2026.
 
 ---
 
-## Portal Hackathon dan Agregator Peluang
+## Hackathon Portals dan Aggregators
 
-Penting bagi pembangun untuk memantau agregator agar tidak melewatkan **RFP atau bounty** yang sesuai dengan keahlian mereka.
+Penting buat builder mantengin aggregator biar ngga skip **RFP atau bounty** yang sesuai expertise mereka.
 
 ### DoraHacks
 
-**Platform utama** untuk menemukan hackathon Web3 global, hibah (grants), dan program pendanaan kuadratik.
+**Platform utama** buat nemuin hackathon Web3 global, **grants**, dan **quadratic funding programs**.
 
 **Fitur utama:**
-- Listing hackathon global dengan filter ekosistem
-- Sistem BUIDL untuk submisi proyek
+- Listing hackathon global dengan ecosystem filter
+- BUIDL system untuk project submission
 - Quadratic funding rounds
 - Discovery layer untuk grants
 
-**Kapan menggunakan:**
-- Mencari hackathon aktif lintas-ekosistem
-- Mengajukan proyek ke beberapa hadiah sekaligus
-- Membangun portfolio publik
+**Kapan dipake:**
+- Cari hackathon aktif lintas ekosistem
+- Submit proyek ke multiple prizes sekaligus
+- Bangun public portfolio
 
 ### ETHGlobal Showcase
 
-**Repositori proyek pemenang** yang memberikan standar visual dan teknis tentang apa yang dianggap sebagai proyek kelas dunia.
+**Repository proyek pemenang** yang kasih standar visual dan teknis tentang apa yang dianggap **world-class project**.
 
 **Fitur utama:**
-- Arsip semua proyek pemenang ETHGlobal
-- Video demo, kode sumber, dan dokumentasi
+- Arsip semua winning projects ETHGlobal
+- Demo videos, source code, dokumentasi
 - Filter berdasarkan track dan teknologi
 
-**Kapan menggunakan:**
-- Riset kompetitor sebelum membangun
-- Memahami standar produksi pemenang
-- Mencari inspirasi pola arsitektur
+**Kapan dipake:**
+- Competitor research sebelum build
+- Pahamin standar production winners
+- Cari inspirasi pola arsitektur
 
 ### Superteam Earn
 
-**Sumber daya terbaik** bagi mereka yang membangun di **ekosistem Solana**, menyediakan daftar bounty dan **bank ide (Idea Bank)**.
+**Resource terbaik** buat yang build di **ekosistem Solana**, nyediain bounty list dan **Idea Bank**.
 
 **Fitur utama:**
-- Bounty aktif dengan reward jelas
-- Idea Bank yang dikurasi
+- Bounty aktif dengan clear reward
+- Curated Idea Bank
 - Talent matching untuk tim
 - Earnings tracker
 
-**Kapan menggunakan:**
+**Kapan dipake:**
 - Fokus ekosistem Solana
-- Mencari bounty cepat untuk income
-- Mendapat ide dari Idea Bank yang divalidasi
+- Cari bounty cepat buat income
+- Dapetin ide dari validated Idea Bank
 
 ### RFP Hub
 
-Sebuah inisiatif yang diusulkan oleh **Ethereum Foundation** untuk mengumpulkan **semua peluang pendanaan** di seluruh ekosistem Web3 ke dalam satu **format standar**.
+Inisiatif yang diusulin **Ethereum Foundation** buat ngumpulin **semua funding opportunity** di seluruh ekosistem Web3 ke satu **standard format**.
 
 **Fitur utama:**
-- Format RFP terstandardisasi
+- Standardized RFP format
 - Cross-foundation aggregation
 - Proposal templates
 
-**Kapan menggunakan:**
-- Mencari RFP formal dari yayasan
-- Mengejar grants jangka panjang
-- Riset gap ekosistem
+**Kapan dipake:**
+- Cari RFP formal dari foundation
+- Ngejar long-term grants
+- Riset ecosystem gaps
 
 ---
 
 ## Tabel Komparasi Platform
 
-| Platform | Fokus Ekosistem | Tipe Reward | Kekuatan Utama |
+| Platform | Ecosystem Focus | Reward Type | Kekuatan Utama |
 |----------|----------------|-------------|----------------|
-| **DoraHacks** | Multi-chain | Hadiah hackathon, QF | Discovery global |
-| **ETHGlobal** | Ethereum + L2 | Hadiah event-based | Standar kualitas tinggi |
-| **Superteam Earn** | Solana | Bounty + grants | Idea Bank tervalidasi |
-| **RFP Hub** | Ethereum (utamanya) | Grants jangka panjang | Format formal |
+| **DoraHacks** | Multi-chain | Hackathon prize, QF | Global discovery |
+| **ETHGlobal** | Ethereum + L2 | Event-based prize | High quality standard |
+| **Superteam Earn** | Solana | Bounty + grants | Validated Idea Bank |
+| **RFP Hub** | Ethereum (utamanya) | Long-term grants | Formal format |
 
 ---
 
-## Dokumentasi Strategis dan Thesis Investasi
+## Strategic Docs dan VC Thesis
 
-Membaca **thesis investasi** dari pemodal ventura (VC) adalah cara terbaik untuk memahami apa yang dianggap sebagai **"ide besar" berikutnya**.
+Baca **investment thesis** dari VC adalah cara terbaik buat ngerti apa yang dianggap **"big idea"** berikutnya.
 
 ### Coinbase Ventures Blog
 
 **"Ideas We Are Excited For in 2026"**
 
-Membahas minat pada:
+Bahas minat di:
 
 | Vertikal | Deskripsi |
 |----------|-----------|
 | **Prop-AMMs alternatif** | Automated Market Makers dengan arsitektur baru |
-| **Terminal perdagangan pasar prediksi** | UX layer baru untuk prediksi |
-| **Privasi on-chain** | Solusi privasi yang produksi-ready |
+| **Prediction market trading terminals** | New UX layer untuk prediksi |
+| **On-chain privacy** | Production-ready privacy solutions |
 
-**Cara menggunakan:** Baca quarterly thesis update sebelum memilih ide untuk Base Batches atau program Coinbase lainnya.
+**Cara dipake:** Baca quarterly thesis update sebelum pilih ide buat Base Batches atau program Coinbase lain.
 
 ### a16z Crypto Startup School
 
-Menyediakan materi tentang:
+Nyediain materi soal:
 
-- **Strategi GTM** untuk produk kripto
-- **Peluncuran token** dan tokenomics
-- **"Cold Start Problem"** — Mengatasi tantangan jaringan baru tanpa pengguna
+- **GTM strategy** untuk crypto product
+- **Token launch** dan **tokenomics**
+- **"Cold Start Problem"** — Cara ngatasin tantangan jaringan baru tanpa user
 - **Founder fundamentals** — Hiring, fundraising, governance
 
-**Cara menggunakan:** Wajib dibaca sebelum mendaftar program akselerator atau melakukan fundraising tahap awal.
+**Cara dipake:** Wajib dibaca sebelum apply accelerator atau early-stage fundraising.
 
 ### Ethereum Foundation Protocol Priorities
 
-Menguraikan **peta jalan teknis jangka panjang** yang menjadi dasar bagi semua hibah infrastruktur.
+Nguraikin **long-term technical roadmap** yang jadi foundation buat semua infrastructure grant.
 
 **Topik yang dibahas:**
-- Roadmap upgrade jaringan (Glamsterdam dan beyond)
-- Prioritas riset (zk, MEV, account abstraction)
+- Network upgrade roadmap (Glamsterdam dan beyond)
+- Research priority (zk, MEV, account abstraction)
 - Public goods funding direction
 
-**Cara menggunakan:** Selaraskan ide infrastruktur Anda dengan prioritas resmi untuk meningkatkan peluang ESP grant.
+**Cara dipake:** Align ide infrastructure kamu dengan official priority buat naikin peluang ESP grant.
 
 ---
 
-## Daftar Sumber Daya Tambahan
+## Resource untuk Developer Experience
 
-### Untuk Riset Pasar
+### Selalu Cari LLM-Friendly Resource
 
-- **Messari Research** — Laporan industri dan thesis sektoral
-- **Delphi Digital** — Riset mendalam vertikal Web3
-- **The Block Research** — Data on-chain dan analisis pasar
+{% hint style="success" %}
+Saat masuk ekosistem baru atau pake protocol baru, **selalu cari resource yang LLM-friendly** sebelum mulai coding. Ini bikin AI assistant kamu (Claude, Gemini, Cursor, Copilot) bisa bantu dengan info yang akurat dan up-to-date, bukan hallucination dari training data lama.
 
-### Untuk Pembelajaran Teknis
+**Yang dicari:**
+
+1. **`llms.txt` / `llms-full.txt`** — File standar di root domain docs (contoh: `docs.protocol.com/llms.txt`). Ini adalah versi ringkas atau full dari docs yang dirancang khusus buat LLM consume.
+
+2. **Claude Skills** — Kalau pakai Claude Code, search community skills atau official skills untuk teknologi target.
+
+3. **MCP (Model Context Protocol) servers** — Buat akses langsung ke RPC blockchain, GitHub, atau docs dari conversation AI. Cek di [github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers).
+
+4. **Cursor rules / `.cursorrules`** — Rule file yang bisa di-share via repo official protocol.
+
+Detail step-by-step ada di [Bab 9: Cheatsheet Brainstorming](chapter-9-cheatsheet-brainstorming.md).
+{% endhint %}
+
+---
+
+## Daftar Resource Tambahan
+
+### Untuk Market Research
+
+- **Messari Research** — Industry report dan sectoral thesis
+- **Delphi Digital** — Deep research vertikal Web3
+- **The Block Research** — On-chain data dan market analysis
+
+### Untuk Technical Learning
 
 - **Patrick Collins / Cyfrin Updraft** — Tutorial Solidity dan smart contract security
-- **Solana Cookbook** — Pola pengembangan Solana
-- **Foundry Book** — Framework pengujian dan deployment Ethereum
+- **Solana Cookbook** — Solana development patterns
+- **Foundry Book** — Testing dan deployment framework Ethereum
+- **Anchor Book** — Solana smart contract framework
 
 ### Untuk Networking
 
-- **Farcaster** — Social layer Web3 dengan komunitas builder aktif
-- **Telegram (channel-channel ekosistem)** — Komunikasi real-time per ekosistem
-- **Discord servers resmi** — Yayasan, protokol, dan hackathon organizers
+- **Farcaster** — Web3 social layer dengan komunitas builder aktif
+- **Telegram** (channel-channel ekosistem) — Real-time communication per ekosistem
+- **Discord servers resmi** — Foundation, protocol, dan hackathon organizers
 
 ---
 
-## Strategi Memanfaatkan Sumber Daya
+## Strategi Manfaatin Resource
 
-### Workflow Mingguan untuk Builder Aktif
+### Weekly Workflow untuk Active Builder
 
 | Hari | Aktivitas |
 |------|-----------|
-| Senin | Cek DoraHacks dan Superteam Earn untuk listing baru |
-| Selasa | Baca thesis VC terbaru (Coinbase, a16z) |
-| Rabu | Riset di ETHGlobal Showcase untuk kompetitor |
-| Kamis | Engage di Discord protokol target |
-| Jumat | Review wishlist Ethereum Foundation untuk update |
-| Akhir Pekan | Building / submission preparation |
+| Senin | Cek DoraHacks dan Superteam Earn buat new listings |
+| Selasa | Baca latest VC thesis (Coinbase, a16z) |
+| Rabu | Riset di ETHGlobal Showcase buat competitor analysis |
+| Kamis | Engage di Discord protocol target |
+| Jumat | Review wishlist Ethereum Foundation buat updates |
+| Weekend | Building / submission preparation |
 
-### Kombinasi Sumber Daya untuk Maksimum Impact
+### Kombinasi Resource untuk Maximum Impact
 
 ```
-1. Baca Thesis VC (Coinbase, a16z) → Identifikasi vertikal panas
-2. Cek Wishlist (EF ESP, Solana Foundation) → Validasi ada permintaan
-3. Riset Showcase (ETHGlobal, DoraHacks) → Pastikan tidak duplikat
-4. Cek Idea Bank (Superteam) → Refine spesifikasi
-5. Submit ke program yang tepat → Maksimumkan peluang
+1. Baca VC Thesis (Coinbase, a16z) → Identify hot vertical
+2. Cek Wishlist (EF ESP, Solana Foundation) → Validasi demand
+3. Riset Showcase (ETHGlobal, DoraHacks) → Avoid duplication
+4. Cek Idea Bank (Superteam) → Refine specification
+5. Cari llms.txt + MCP + Skills → AI assistant siap bantu
+6. Submit ke program yang tepat → Maximize chance
 ```
 
 ---
@@ -171,11 +195,11 @@ Menguraikan **peta jalan teknis jangka panjang** yang menjadi dasar bagi semua h
 ## Catatan Penting tentang Verifikasi
 
 {% hint style="warning" %}
-**Selalu verifikasi link dan deadline dari sumber resmi.** Lanskap Web3 berubah cepat — program dapat ditutup, dipindahkan, atau diganti namanya tanpa pemberitahuan luas. Selalu cek:
+**Selalu verifikasi link dan deadline dari official source.** Lanskap Web3 berubah cepat — program bisa close, di-rebrand, atau dipindahin tanpa pemberitahuan luas. Selalu cek:
 
-1. Akun Twitter/X resmi penyelenggara
-2. Blog resmi yayasan/perusahaan
-3. Konfirmasi melalui Discord/Telegram resmi
+1. Akun Twitter/X resmi sponsor
+2. Official blog foundation/company
+3. Konfirmasi via Discord/Telegram resmi
 {% endhint %}
 
 ---

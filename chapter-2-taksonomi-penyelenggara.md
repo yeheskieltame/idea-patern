@@ -2,99 +2,99 @@
 
 ## Motivasi Strategis dan Insentif Ekosistem
 
-Langkah pertama yang paling krusial dalam merumuskan ide hackathon adalah melakukan **dekonstruksi terhadap profil penyelenggara**. Di dalam ekosistem Web3, penyelenggara umumnya terbagi ke dalam tiga kategori besar:
+Step pertama buat nyusun ide hackathon yang menang adalah **bedah profil sponsor**. Di Web3, sponsor umumnya ke 3 kategori:
 
-1. **Yayasan rantai publik** (Foundation)
-2. **Bursa kripto terpusat** (Exchange)
-3. **Protokol keuangan terdesentralisasi** (DeFi Protocol)
+1. **Foundation** (yayasan rantai publik)
+2. **Exchange** (bursa kripto terpusat)
+3. **DeFi Protocol** (protokol keuangan terdesentralisasi)
 
-Masing-masing entitas memiliki tujuan akhir yang berbeda, yang secara langsung memengaruhi apa yang mereka cari dari para peserta.
+Tiap kategori punya tujuan akhir yang beda, dan ini langsung ngaruh ke apa yang mereka cari dari peserta.
 
 ---
 
-## Yayasan Rantai Publik dan Penyedia Infrastruktur
+## Foundation Rantai Publik dan Penyedia Infrastruktur
 
-Yayasan seperti **Ethereum Foundation** atau **Solana Foundation** memiliki mandat utama untuk menjaga keberlanjutan, desentralisasi, dan ketahanan teknis jaringan mereka dalam jangka panjang.
+Foundation kayak **Ethereum Foundation** atau **Solana Foundation** punya mandat utama: menjaga **network resilience**, **decentralization**, dan **technical sustainability** jaringan dalam jangka panjang.
 
 ### Fokus Utama
 
-Yayasan berfokus pada perluasan basis pengembang dan penguatan infrastruktur dasar yang sering kali bersifat sebagai **"barang publik" (public goods)**. Bagi yayasan ini, hackathon adalah instrumen untuk mendistribusikan hibah (grants) kepada proyek-proyek yang mampu:
+Foundation fokus ke perluasan **developer base** dan penguatan infrastruktur dasar yang sifatnya **public goods**. Bagi mereka, hackathon adalah instrumen untuk distribusiin **grants** ke proyek yang bisa:
 
-- Menyelesaikan hambatan teknis yang kompleks
-- Meningkatkan pengalaman pengembang (DX) secara keseluruhan
-- Menyediakan alat infrastruktur yang dapat digunakan komunitas
+- Nyelesain hambatan teknis kompleks
+- Improve **developer experience (DX)** secara keseluruhan
+- Nyediain tooling yang bisa dipake komunitas
 
 ### Studi Kasus: Ethereum Foundation ESP
 
-Dalam konteks Ethereum Foundation melalui **Ecosystem Support Program (ESP)**, terdapat pergeseran dari model aplikasi terbuka menjadi model yang lebih proaktif dan didorong oleh kebutuhan (*needs-driven*).
+Ethereum Foundation lewat **Ecosystem Support Program (ESP)** udah shifting dari model **open application** ke model **needs-driven** yang lebih proaktif.
 
-Mereka menggunakan instrumen seperti:
+Mereka pakai instrumen kayak:
 
 - **Wishlist** — Daftar publik kebutuhan ekosistem
 - **Requests for Proposals (RFP)** — Permintaan formal untuk solusi spesifik
 
 {% hint style="info" %}
-Menjelang peningkatan jaringan **"Glamsterdam"** pada tahun 2026, fokus utama yayasan adalah pada:
-- Skalabilitas Layer 1
-- Peningkatan batas gas hingga **100 juta**
-- Abstraksi akun asli (native account abstraction)
+Menjelang network upgrade **"Glamsterdam"** di 2026, fokus utama EF adalah:
+- **Layer 1 scalability**
+- Naikin **gas limit** sampai **100 juta**
+- **Native account abstraction**
 {% endhint %}
 
 ### Kriteria Evaluasi
 
-Ide proyek yang diajukan kepada yayasan harus menunjukkan bagaimana solusi tersebut memberikan **nilai jangka panjang** bagi kesehatan protokol, bukan sekadar mengejar keuntungan komersial jangka pendek.
+Ide yang diajuin ke foundation harus nunjukin gimana solusi itu kasih **long-term value** ke health protocol, bukan sekadar ngejar profit jangka pendek.
 
 ---
 
-## Bursa Terpusat dan Dana Ekosistem
+## Exchange dan Ecosystem Funds
 
-Bursa terpusat (CEX) seperti **Binance** dan **Coinbase**, beserta unit ventura mereka, menyelenggarakan hackathon dengan tujuan yang lebih berorientasi pada **pasar dan pertumbuhan pengguna**.
+Centralized exchange (CEX) kayak **Binance** dan **Coinbase**, plus **VC arms** mereka, nyelenggarain hackathon dengan tujuan yang lebih **market-oriented**.
 
 ### Fokus Utama
 
-- Peningkatan **volume perdagangan**
-- Peningkatan **likuiditas**
-- Adopsi aplikasi konsumen yang dapat mengintegrasikan produk bursa (dompet, jembatan fiat-ke-kripto)
+- Naikin **trading volume**
+- Naikin **liquidity**
+- **User adoption** untuk consumer apps yang bisa integrate sama produk exchange (wallet, fiat-to-crypto on-ramp)
 
 ### Studi Kasus: Coinbase Base Batches
 
-Coinbase, melalui jaringan Layer 2-nya, **Base**, menjalankan program **"Base Batches"** yang sangat selektif. Program ini mencari tim yang memiliki:
+Coinbase, lewat L2-nya **Base**, jalanin **"Base Batches"** yang super selektif. Program ini cari tim yang punya:
 
-- Pemahaman mendalam tentang pasar
-- Kemampuan eksekusi yang cepat
-- Vertikal dengan **Product-Market Fit (PMF)** yang terbukti
+- **Deep market understanding**
+- **Execution velocity** yang cepat
+- Vertikal yang udah punya **Product-Market Fit (PMF)**
 
-Vertikal yang dicari biasanya:
+Vertikal yang dicari:
 
 | Vertikal | Alasan |
 |----------|--------|
-| Stablecoins | Volume transaksi tinggi, infrastruktur kritis |
-| Pasar Prediksi | PMF terbukti, narasi kuat |
-| Pembayaran AI Agents | Vertikal baru dengan potensi eksplosif |
+| **Stablecoins** | Volume tinggi, infrastruktur kritis |
+| **Prediction markets** | PMF terbukti, narasi kuat |
+| **AI agent payments** | Vertikal baru dengan potensi eksplosif |
 
 {% hint style="warning" %}
-Penyelenggara tipe bursa bertindak lebih seperti **investor modal ventura**. Mereka mengevaluasi proyek berdasarkan potensi skalabilitas bisnis dan kemampuan tim untuk menarik modal dari luar ekosistem bursa tersebut.
+Sponsor tipe exchange bertindak lebih kayak **VC**. Mereka evaluasi proyek berdasarkan **business scalability** dan kemampuan tim narik modal dari luar ekosistem mereka.
 {% endhint %}
 
 ---
 
-## Protokol DeFi dan Aplikasi Spesifik
+## DeFi Protocol dan Aplikasi Spesifik
 
-Kategori ketiga adalah protokol DeFi atau DApps spesifik seperti **Lido**, **1inch**, atau **Uniswap** yang mengadakan hackathon untuk mendorong **komposabilitas**.
+Kategori ketiga: DeFi protocol kayak **Lido**, **1inch**, atau **Uniswap** yang ngadain hackathon buat dorong **composability**.
 
 ### Fokus Utama
 
-Mereka ingin pengembang membangun **"di atas"** protokol mereka:
+Mereka mau developer build **"on top of"** protocol mereka:
 
-- Menggunakan API mereka
-- Mengintegrasikan aset asli mereka ke dalam alur kerja baru
-- Memperluas utilitas protokol
+- Pake **API/SDK** mereka
+- Integrate native asset mereka ke flow baru
+- Memperluas utility protocol
 
 ### Filosofi "Money Legos"
 
-Motivasi mereka adalah untuk memperluas utilitas protokol dan memastikan bahwa mereka tetap menjadi **lapisan infrastruktur yang dominan** dalam "legos keuangan" Web3.
+Motivasi mereka: pastiin protocol mereka tetap jadi **dominant infrastructure layer** dalam **money legos** Web3.
 
-> Setiap integrasi baru memperkuat efek jaringan dan menciptakan switching cost bagi kompetitor.
+> Setiap integrasi baru memperkuat **network effect** dan menciptakan **switching cost** buat kompetitor.
 
 ---
 
@@ -102,17 +102,17 @@ Motivasi mereka adalah untuk memperluas utilitas protokol dan memastikan bahwa m
 
 | Tipe Penyelenggara | Tujuan Utama | Kriteria Keberhasilan | Contoh Program |
 |--------------------|--------------|----------------------|----------------|
-| **Foundation** | Ketahanan Jaringan & Desentralisasi | Utilitas teknis jangka panjang, Open Source | Ethereum ESP, Solana Riptide |
-| **Exchange** | Volume, Likuiditas & Adopsi Pengguna | Skalabilitas bisnis, GTM, Volume transaksi | Base Batches, Binance Labs MVB |
-| **DeFi Protocol** | Komposabilitas & Integrasi API | Kedalaman integrasi, Peningkatan utilitas aset | Synthesis MD, 1inch Hackathon |
+| **Foundation** | Network resilience & decentralization | Long-term technical utility, open source | Ethereum ESP, Solana Riptide |
+| **Exchange** | Volume, liquidity & user adoption | Business scalability, GTM, transaction volume | Base Batches, Binance Labs MVB |
+| **DeFi Protocol** | Composability & API integration | Integration depth, asset utility increase | Synthesis MD, 1inch Hackathon |
 
-## Cara Memilih Penyelenggara yang Tepat
+## Cara Pilih Sponsor yang Cocok
 
-Sebelum memutuskan hackathon mana yang akan diikuti, tanyakan:
+Sebelum decide ikut hackathon mana, tanya:
 
-1. **Apa kekuatan tim Anda?** Tim infrastruktur dalam → Foundation. Tim produk-konsumen → Exchange. Tim DeFi quant → Protocol.
-2. **Seberapa matang ide Anda?** Ide eksperimental → Tantangan Inovasi. MVP berjalan → Akselerator.
-3. **Apa imbalan yang dicari?** Hibah teknis → Foundation. Investasi ekuitas → Exchange/VC arms.
+1. **Apa kekuatan tim kamu?** Tim infrastructure deep → Foundation. Tim consumer product → Exchange. Tim DeFi quant → Protocol.
+2. **Seberapa matang ide kamu?** Eksperimental → Innovation Challenge. MVP jalan → Accelerator.
+3. **Apa reward yang dicari?** Technical grant → Foundation. Equity investment → Exchange/VC arms.
 
 ---
 

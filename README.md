@@ -1,39 +1,41 @@
 # Arsitektur Strategis Inovasi Web3
 
-## Panduan Komprehensif Ideasi, Penyelarasan Ekosistem, dan Kesiapan Modal Ventura dalam Hackathon Global 2026
+## Panduan Praktis Ideasi, Ecosystem Alignment, dan VC-Readiness untuk Hackathon Global 2026
 
-Evolusi pembangunan ekosistem blockchain telah mencapai titik di mana hackathon tidak lagi sekadar kompetisi pemrograman intensif akhir pekan, melainkan telah bertransformasi menjadi **mesin pertumbuhan strategis yang sangat terstruktur**.
+Hackathon Web3 sekarang udah bukan sekadar lomba ngoding semalam. Mereka udah jadi **growth engine** yang sangat terstruktur — jembatan antara ide tahap awal sampai ke ekosistem **venture capital** yang matang.
 
-Dalam lanskap Web3 kontemporer, hackathon berfungsi sebagai jembatan kritis antara ideasi tahap awal dengan ekosistem modal ventura yang matang. Fenomena ini didorong oleh kebutuhan mendesak dari berbagai entitas—mulai dari yayasan rantai publik hingga bursa terpusat—untuk mengisi kesenjangan teknis dalam peta jalan mereka dan mempercepat adopsi pengguna secara masal.
+Foundation, exchange, sampai DeFi protocol pakai hackathon untuk:
+- Nutupin gap teknis di roadmap mereka
+- Cari **builder** baru yang bisa direkrut atau didanai
+- Mempercepat **user adoption** ke produk mereka
 
 ## Untuk Siapa Panduan Ini?
 
-Panduan ini ditujukan bagi:
+- **Builders** yang mau naikin peluang menang di hackathon Web3 global
+- **Founders** yang nargetin accelerator kayak **Base Batches** atau **Binance Labs**
+- **Tim developer** yang mau ngerti motivasi sponsor dan nyusun ide yang strategis
+- **Mahasiswa & researcher** yang lagi pelajari ekosistem Web3
 
-- **Pembangun (Builders)** yang ingin meningkatkan peluang menang di hackathon Web3 global
-- **Pendiri startup** yang menargetkan program akselerator seperti Base Batches atau Binance Labs
-- **Tim pengembang** yang ingin memahami motivasi penyelenggara dan menyusun ide yang strategis
-- **Peneliti & Mahasiswa** yang mempelajari ekosistem inovasi Web3
-
-## Apa yang Akan Anda Pelajari?
+## Apa yang Bakal Kamu Pelajari?
 
 {% hint style="info" %}
-Memahami dinamika ini memerlukan analisis mendalam terhadap **motivasi penyelenggara**, **struktur program**, serta **kriteria maturitas proyek** agar pembangun dapat menentukan ide yang memiliki peluang kemenangan dan pendanaan tertinggi.
+Untuk ngerti dinamika hackathon modern, kamu butuh tahu **3 hal kunci**: motivasi penyelenggara, struktur program yang ditawarkan, dan tingkat kematangan proyek yang diharapkan. Kalau salah satu meleset, peluang menang turun drastis.
 {% endhint %}
 
-Panduan ini akan membahas:
+Panduan ini bakal bahas:
 
 1. **Taksonomi Penyelenggara** — Foundation, Exchange, dan DeFi Protocol
-2. **Klasifikasi Program** — Tantangan Inovasi, Bounty, dan Akselerator
-3. **Strategi Ideasi** — Wishlist, RFP, dan Kerangka Kerja Alchemy
+2. **Klasifikasi Program** — Innovation Challenges, Bounties, dan Accelerators
+3. **Strategi Ideasi** — Wishlist, RFP, dan framework dari Alchemy
 4. **Studi Kasus 2026** — Base Batches, Hedera Apex, Synthesis MD
-5. **Panduan Sumber Daya** — Direktori platform dan thesis investasi
-6. **Metodologi Eksekusi** — Dari ide hingga submisi pemenang
+5. **Resource Guide** — Direktori platform dan VC thesis
+6. **Metodologi Eksekusi** — Dari ide sampai winning submission
+7. **Cheatsheet Brainstorming** — 6-step workflow pakai Grok, Claude, Gemini
 
 ## Cara Membaca Panduan Ini
 
-Bab disusun secara progresif dari konseptual ke praktis. Pembaca yang baru di Web3 disarankan membaca berurutan, sementara pembangun berpengalaman dapat langsung melompat ke bab studi kasus atau metodologi eksekusi.
+Bab disusun dari konseptual ke praktis. Kalau baru di Web3, baca berurutan. Kalau udah pengalaman, langsung lompat ke **Bab 9 (Cheatsheet Brainstorming)** untuk workflow praktis, atau **Bab 5 (Studi Kasus)** buat liat pola yang menang.
 
 ---
 
-*Mulai dari [Pendahuluan: Evolusi Hackathon Web3](chapter-1-pendahuluan.md) →*
+*Mulai dari [Bab 1: Pendahuluan & Evolusi Hackathon Web3](chapter-1-pendahuluan.md) →*

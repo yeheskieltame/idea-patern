@@ -1,167 +1,180 @@
 # Bab 7: Metodologi Eksekusi
 
-## Dari Ide ke Submisi Pemenang
+## Dari Ide ke Winning Submission
 
-Setelah ide ditentukan, eksekusi dalam hackathon harus mengikuti pola yang **meminimalkan gesekan bagi juri**. Berdasarkan pedoman dari **ETHGlobal** dan program akselerator lainnya, **kualitas submisi sering kali sama pentingnya** dengan kualitas kode itu sendiri.
+Setelah ide ditentukan, eksekusi di hackathon harus ngikutin pola yang **minimize friction buat juri**. Berdasarkan guideline dari **ETHGlobal** dan accelerator lain, **submission quality sering kali sama pentingnya** sama code quality.
 
 {% hint style="danger" %}
-Banyak proyek dengan kode brilian gagal menang karena **submisi yang buruk**. Sebaliknya, proyek sederhana dengan submisi yang dipoles sering mengalahkan proyek ambisius yang gagal mendemonstrasikan nilainya.
+Banyak proyek dengan code brilian gagal menang gara-gara **submission yang jelek**. Sebaliknya, proyek simple dengan polished submission sering ngalahin proyek ambisius yang gagal demo.
 {% endhint %}
 
 ---
 
-## Struktur Minimum Viable Product (MVP)
+## MVP Structure (Minimum Viable Product)
 
-Juri lebih menghargai **proyek sederhana yang bekerja dengan sempurna** daripada arsitektur ambisius yang penuh bug.
+Juri lebih ngehargain **proyek simple yang jalan sempurna** daripada **arsitektur ambisius yang full bug**.
 
 > **"Start Simple"** adalah aturan emas.
 
-### Prinsip 1: Fokus pada Core Loop
+### Prinsip 1: Fokus ke Core Loop
 
-Demonstrasikan **satu alur kerja utama** yang paling penting.
+Demo-in **satu main workflow** yang paling penting.
 
-**Contoh good:** Bagaimana agen AI melakukan transaksi mikro secara otomatis (alur tunggal yang lengkap dari awal sampai akhir).
+**Contoh good:** Gimana AI agent ngelakuin micropayment otomatis (single flow lengkap dari awal sampai akhir).
 
-**Contoh bad:** Sistem multi-agent dengan governance, treasury, dan marketplace — semuanya setengah jadi.
+**Contoh bad:** Multi-agent system dengan governance, treasury, dan marketplace — semua setengah jadi.
 
-### Prinsip 2: UX dan Desain Matter
+### Prinsip 2: UX dan Design Matters
 
-Proyek yang memiliki **antarmuka yang intuitif** atau **pengalaman pengembang (DX) yang baik** memiliki **keunggulan kompetitif yang signifikan**.
+Proyek yang punya **intuitive interface** atau **good developer experience (DX)** punya **competitive advantage** signifikan.
 
 #### Standar Minimum UX untuk Hackathon 2026
 
-- **Onboarding flow** yang dapat dimengerti dalam <30 detik
+- **Onboarding flow** yang bisa dimengerti dalam <30 detik
 - **Loading states** yang informatif (bukan blank screen)
-- **Error messages** yang manusiawi
-- **Mobile responsive** (terutama untuk demo video)
+- **Error messages** yang humane
+- **Mobile responsive** (terutama buat demo video)
 
-### Prinsip 3: Dokumentasi dan Komitmen Kode
+### Prinsip 3: Documentation dan Code Commits
 
 {% hint style="warning" %}
-Submisi harus memiliki **riwayat commit yang jelas** di GitHub untuk membuktikan bahwa pekerjaan dilakukan **selama periode hackathon**. **Commit tunggal dalam jumlah besar** di hari terakhir sering kali menjadi alasan **diskualifikasi**.
+Submission harus punya **clear commit history** di GitHub buat ngebukti kerjaan dilakuin **selama periode hackathon**. **Single massive commit** di hari terakhir sering jadi alasan **disqualification**.
 {% endhint %}
 
 #### Best Practices untuk Git Hygiene
 
-| Praktik | Mengapa Penting |
-|---------|----------------|
-| Commit kecil dan sering | Bukti pekerjaan organik |
-| Pesan commit yang deskriptif | Memudahkan juri menelusuri progres |
-| Branch feature yang terstruktur | Menunjukkan kematangan tim |
-| README yang lengkap | Entry point untuk juri |
-| Demo `.env.example` | Memungkinkan juri menjalankan lokal |
+| Practice | Kenapa Penting |
+|----------|----------------|
+| Commit kecil dan sering | Bukti kerjaan organik |
+| Descriptive commit message | Mudah buat juri telusurin progress |
+| Structured feature branches | Nunjukin maturity tim |
+| Lengkap README | Entry point buat juri |
+| Demo `.env.example` | Juri bisa run lokal |
 
-### Struktur Repository yang Disarankan
+### Recommended Repository Structure
 
 ```
 project-root/
 ├── README.md (deskripsi, demo link, setup)
-├── DEMO.md (langkah demo dengan screenshot)
-├── ARCHITECTURE.md (diagram dan teknologi)
+├── DEMO.md (demo steps + screenshots)
+├── ARCHITECTURE.md (diagram + teknologi)
 ├── contracts/ (smart contracts dengan tests)
 ├── frontend/ (UI/UX layer)
-├── backend/ (jika ada off-chain components)
+├── backend/ (off-chain components kalau ada)
 ├── docs/ (dokumentasi tambahan)
 └── .env.example
 ```
 
+### Pro Tip: Setup AI-Assisted Development dari Awal
+
+{% hint style="success" %}
+Sebelum mulai coding, setup AI-assisted dev environment dengan resource LLM-friendly:
+
+1. Download `llms.txt` / `llms-full.txt` dari protocol target
+2. Install **MCP server** untuk RPC chain target (biar AI bisa query on-chain langsung)
+3. Pasang **Claude Skills** atau **Cursor rules** yang relevan
+4. Save ke folder `.cursor/` atau `.claude/` di repo
+
+Ini ngehemat 30-40% waktu debugging karena AI assistant kamu udah punya context akurat.
+{% endhint %}
+
 ---
 
-## Presentasi dan Demo Video
+## Demo Video dan Presentation
 
-**Video demo adalah materi paling penting** bagi juri yang melakukan **penilaian secara asinkron**.
+**Demo video adalah materi paling penting** buat juri yang ngelakuin **async judging**.
 
 ### Spesifikasi Teknis Video
 
 #### Durasi
 
 {% hint style="info" %}
-Pastikan video berada dalam rentang **2 hingga 4 menit**. Video yang **terlalu pendek atau terlalu panjang** dapat ditolak secara otomatis oleh sistem submission.
+Pastiin video ada di range **2 sampai 4 menit**. Video yang **terlalu pendek atau terlalu panjang** bisa di-reject otomatis sama submission system.
 {% endhint %}
 
 #### Konten
 
-**Jangan habiskan terlalu banyak waktu pada latar belakang.**
+**Jangan habisin terlalu banyak waktu di background.**
 
 Struktur video pemenang:
 
 | Waktu | Bagian | Tips |
 |-------|--------|------|
-| 0:00 - 0:20 | Hook + Problem statement | Mulai dengan pain point konkret |
-| 0:20 - 2:30 | Demonstrasi fitur dalam aksi | Bagian terpanjang — tunjukkan produk berjalan |
-| 2:30 - 3:00 | Arsitektur teknis (singkat) | Diagram + teknologi yang digunakan |
-| 3:00 - 3:30 | Roadmap singkat | Apa yang akan dibangun setelah hackathon |
-| 3:30 - 4:00 | Tim & call-to-action | Siapa dan bagaimana follow-up |
+| 0:00 - 0:20 | Hook + problem statement | Mulai dengan concrete pain point |
+| 0:20 - 2:30 | Demo fitur dalam aksi | Bagian terpanjang — tunjukin product berjalan |
+| 2:30 - 3:00 | Technical architecture (singkat) | Diagram + teknologi yang dipake |
+| 3:00 - 3:30 | Roadmap singkat | Apa yang bakal dibangun setelah hackathon |
+| 3:30 - 4:00 | Tim & call-to-action | Siapa dan gimana follow-up |
 
-**Aturan penting:** Gunakan slide **hanya untuk meringkas poin-poin utama**. Mayoritas waktu harus berupa **screen recording produk yang berjalan**.
+**Aturan penting:** Pakai slide **cuma buat ngeringkas main points**. Mayoritas waktu harus berupa **screen recording product yang berjalan**.
 
-#### Kualitas Teknis
+#### Technical Quality
 
-- **Resolusi minimal 720p** (1080p direkomendasikan)
-- **Audio jernih** — gunakan microphone external jika memungkinkan
-- **Hindari penggunaan suara AI (text-to-speech) yang tidak alami**
-- Volume musik latar **maksimal 20%** dari volume narasi
+- **Resolusi minimal 720p** (1080p direkomendasiin)
+- **Audio jernih** — pakai external microphone kalau bisa
+- **Hindari penggunaan AI text-to-speech** yang ngga natural
+- Background music volume **maksimal 20%** dari volume narasi
 
 ### Checklist Sebelum Upload Video
 
 - [ ] Durasi antara 2-4 menit
 - [ ] Resolusi 720p atau lebih tinggi
 - [ ] Audio narasi jelas tanpa noise
-- [ ] Demo produk berjalan tanpa bug visual
+- [ ] Demo product berjalan tanpa visual bug
 - [ ] Caption/subtitle untuk aksesibilitas
 - [ ] Link ke repository ada di deskripsi
 - [ ] Thumbnail yang representatif
 
 ---
 
-## Kriteria Penilaian Juri
+## Judging Criteria
 
-Memahami **bobot penilaian** memungkinkan tim untuk **mengalokasikan waktu development** secara strategis.
+Pahamin **bobot penilaian** ngebuat tim bisa **alokasiin waktu development** strategis.
 
 ### Tabel Bobot Penilaian Umum
 
 | Aspek Penilaian | Bobot Umum | Fokus Utama Juri |
 |-----------------|------------|------------------|
-| **Teknis (Technicality)** | 30% - 40% | Kompleksitas masalah & kecanggihan solusi |
-| **Inovasi (Originality)** | 20% - 30% | Kebaruan ide atau pendekatan kreatif |
-| **Kegunaan (Practicality)** | 20% | Seberapa fungsional & siap pakai proyek tersebut |
-| **Desain (UI/UX)** | 10% | Intuisi penggunaan & estetika antarmuka |
-| **WOW Factor** | 10% | Kesan unik atau prestasi luar biasa lainnya |
+| **Technicality** | 30% - 40% | Kompleksitas masalah & sophistication solusi |
+| **Originality** | 20% - 30% | Kebaruan ide atau pendekatan kreatif |
+| **Practicality** | 20% | Seberapa functional & ready-to-use |
+| **Design (UI/UX)** | 10% | Intuisi penggunaan & estetika interface |
+| **WOW Factor** | 10% | Kesan unik atau prestasi luar biasa |
 
-### Strategi Alokasi Waktu Berdasarkan Bobot
+### Strategi Time Allocation Berdasarkan Bobot
 
-Untuk hackathon **48 jam** (sekitar 36 jam efektif), distribusikan:
+Buat hackathon **48 jam** (sekitar 36 jam efektif), distribusiin:
 
 ```
-Teknis (35%) ─────────► ~12.5 jam coding inti
-Inovasi (25%) ────────► Built-in dari ide awal (sudah ditentukan)
-Kegunaan (20%) ───────► ~7 jam polish & testing
-Desain (10%) ─────────► ~3.5 jam UI/UX
-WOW Factor (10%) ────► ~3.5 jam easter egg / demo flair
-Submisi/Video ───────► ~6 jam (sering diabaikan!)
-Buffer ──────────────► ~3.5 jam untuk debugging
+Technicality (35%) ─────► ~12.5 jam core coding
+Originality (25%) ──────► Built-in dari ide awal (udah ditentuin)
+Practicality (20%) ─────► ~7 jam polish & testing
+Design (10%) ───────────► ~3.5 jam UI/UX
+WOW Factor (10%) ───────► ~3.5 jam easter egg / demo flair
+Submission/Video ──────► ~6 jam (sering diabaikan!)
+Buffer ────────────────► ~3.5 jam buat debugging
 ```
 
 {% hint style="success" %}
-**Insight kritis:** Banyak tim mengalokasikan **0% waktu untuk submisi** dan menyesalinya. Sediakan minimal **15-20% dari total waktu** untuk video, README, dan polish submisi.
+**Critical insight:** Banyak tim alokasiin **0% waktu buat submission** dan nyeselin. Sediain minimal **15-20% dari total waktu** buat video, README, dan submission polish.
 {% endhint %}
 
-### Checklist Hari Terakhir
+### Checklist Last Day
 
 24 jam sebelum deadline:
 
-- [ ] Core loop berjalan tanpa bug pada demo path
+- [ ] Core loop berjalan tanpa bug di demo path
 - [ ] README.md lengkap dengan setup instructions
-- [ ] Video demo direkam dan diedit
+- [ ] Demo video direkam dan diedit
 - [ ] Deployment ke testnet/mainnet selesai
-- [ ] Live demo URL berfungsi (jika ada)
+- [ ] Live demo URL berfungsi (kalau ada)
 
 6 jam sebelum deadline:
 
 - [ ] Test submission dari fresh browser session
 - [ ] Verify all links work (GitHub, video, live demo)
-- [ ] Cross-check semua track requirements terpenuhi
-- [ ] Submit FORMULIR submission (jangan tunggu menit terakhir!)
+- [ ] Cross-check semua track requirement terpenuhi
+- [ ] Submit FORM submission (jangan tunggu menit terakhir!)
 
 ---
 
@@ -169,24 +182,24 @@ Buffer ──────────────► ~3.5 jam untuk debugging
 
 ### Pitfall 1: Over-engineering di Awal
 
-Tim sering menghabiskan 50% waktu pada arsitektur "yang benar" sebelum punya produk berjalan. **Solusi:** Build the ugly version first, beautify last.
+Tim sering ngehabisin 50% waktu di "correct architecture" sebelum punya product berjalan. **Solution:** Build the ugly version first, beautify last.
 
-### Pitfall 2: Tidak Membaca Track Requirements
+### Pitfall 2: Ngga Baca Track Requirements
 
-Setiap hadiah memiliki kriteria spesifik. Submisi yang tidak memenuhi requirement otomatis didiskualifikasi dari track itu.
+Tiap prize punya specific criteria. Submission yang ngga match requirement otomatis disqualified dari track itu.
 
-### Pitfall 3: Demo yang Tidak Bisa Direproduksi
+### Pitfall 3: Demo yang Ngga Reproducible
 
-Jika juri mencoba menjalankan kode dan gagal, kepercayaan hilang. **Selalu uji setup instructions dari fresh environment.**
+Kalau juri nyoba run code dan gagal, kepercayaan hilang. **Selalu test setup instructions dari fresh environment.**
 
-### Pitfall 4: Mengabaikan Submission Deadline
+### Pitfall 4: Ngabaiin Submission Deadline
 
-Banyak hackathon menutup form submission **secara otomatis** pada deadline. Tidak ada toleransi keterlambatan. **Submit minimal 1 jam sebelum deadline.**
+Banyak hackathon nutup submission form **otomatis** di deadline. Ngga ada toleransi keterlambatan. **Submit minimal 1 jam sebelum deadline.**
 
-### Pitfall 5: Tim Tidak Hadir Saat Judging
+### Pitfall 5: Tim Ngga Hadir Saat Judging
 
-Hackathon dengan judging live memerlukan kehadiran tim. **Catat jadwal judging session sejak hari pertama.**
+Hackathon dengan live judging butuh kehadiran tim. **Catat jadwal judging session dari hari pertama.**
 
 ---
 
-*Lanjutkan ke [Bab 8: Kesimpulan & Navigasi Masa Depan](chapter-8-kesimpulan.md) →*
+*Lanjutkan ke [Bab 8: Kesimpulan & Roadmap](chapter-8-kesimpulan.md) →*
