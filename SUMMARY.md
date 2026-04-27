@@ -52,6 +52,14 @@
   * [Step 5: Arsitektur dengan Claude/Gemini](chapter-9-cheatsheet-brainstorming.md#step-5-refine-arsitektur-dengan-claudegemini)
   * [Step 6: Community Validation](chapter-9-cheatsheet-brainstorming.md#step-6-validasi-ide-dengan-komunitas)
 
+## Bagian VII: AI Agent Skill
+
+* [Skill: Hackathon Idea Finder & Validator](skill-idea.md)
+  * [Cara Pakai Skill](skill-idea.md#cara-pakai-skill-ini-user-instructions)
+  * [Mode 1: Generate Idea](skill-idea.md#mode-1-generate-idea-cari-ide-dari-nol)
+  * [Mode 2: Validate Idea](skill-idea.md#mode-2-validate-idea-evaluasi-ide-existing)
+  * [Mode 3: Refine Idea](skill-idea.md#mode-3-refine-idea-tajemin-scopearchitecture)
+
 ## Lampiran
 
 * [Glosarium Istilah Web3](glossary.md)

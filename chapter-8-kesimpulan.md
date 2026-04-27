@@ -1,6 +1,10 @@
 # Bab 8: Kesimpulan — Navigasi Masa Depan Pembangunan Web3
 
+> **Hook:** Hackathon pertama kamu bukan tujuan akhir — itu cuma chapter 1 dari journey 5 tahun. Bab ini kasih peta lengkapnya.
+
 ## Sintesis Strategi Hackathon 2026
+
+Builder yang sukses di Web3 ngga keluar dari satu hackathon langsung jadi founder unicorn. Mereka navigate **stage by stage**: bounty hunter → hackathon winner → grant recipient → accelerator alumnus → ecosystem leader. Tiap stage punya skill set dan strategi sendiri. Bab ini ngerangkum semuanya plus realistic timeline.
 
 Nentuin ide hackathon di 2026 **bukan lagi sekadar aktivitas kreatif yang terisolasi**, tapi **latihan dalam ecosystem strategy**.
 
@@ -149,3 +153,7 @@ Selamat building, dan semoga panduan ini jadi titik awal yang berguna dalam perj
 ---
 
 *Kembali ke [Daftar Isi](SUMMARY.md) | Lanjut ke [Bab 9: Cheatsheet Brainstorming](chapter-9-cheatsheet-brainstorming.md) | [Glosarium](glossary.md)*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*

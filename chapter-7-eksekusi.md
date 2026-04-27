@@ -1,6 +1,10 @@
 # Bab 7: Metodologi Eksekusi
 
+> **Hook:** Juri ngga punya waktu buat ngehargain genius kamu. Mereka punya 200 submission buat dilihat dalam 4 jam. Submission yang ngga clear = submission yang di-skip.
+
 ## Dari Ide ke Winning Submission
+
+Banyak builder ngerjain code 47 jam, lalu ngerjain video demo 1 jam terakhir — dan kalah. Submission yang menang itu **bukan yang paling kompleks**, tapi **yang paling gampang dievaluasi juri**. Bab ini ngasih playbook eksekusi yang udah dipakai pemenang ETHGlobal dan Base Batches.
 
 Setelah ide ditentukan, eksekusi di hackathon harus ngikutin pola yang **minimize friction buat juri**. Berdasarkan guideline dari **ETHGlobal** dan accelerator lain, **submission quality sering kali sama pentingnya** sama code quality.
 
@@ -203,3 +207,7 @@ Hackathon dengan live judging butuh kehadiran tim. **Catat jadwal judging sessio
 ---
 
 *Lanjutkan ke [Bab 8: Kesimpulan & Roadmap](chapter-8-kesimpulan.md) →*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*

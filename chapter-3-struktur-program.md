@@ -1,6 +1,10 @@
 # Bab 3: Klasifikasi Struktur Hackathon
 
+> **Hook:** Kirim ide eksperimental ke accelerator = auto-reject. Kirim MVP siap-launch ke innovation challenge = overkill. Salah pilih program = waste of time.
+
 ## Challenges, Bounties, dan Accelerators
+
+Bukan semua hackathon dibuat sama. Yang keliatan dari luar sebagai "hackathon Web3" sebenernya 3 program yang sangat beda — dengan ekspektasi maturity yang sangat beda juga. Pilih yang salah, kamu ngehabisin energi buat proyek yang ngga akan dievaluasi serius.
 
 Setelah ngerti profil sponsor, step berikutnya adalah identifikasi **tipe program** yang diikuti. Struktur program nentuin seberapa matang proyek yang dibutuhkan dan tipe reward yang dikasih.
 
@@ -153,3 +157,7 @@ Apakah kamu punya MVP berjalan dengan traction?
 ---
 
 *Lanjutkan ke [Bab 4: Strategi Penentuan Ide](chapter-4-strategi-ideasi.md) →*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*

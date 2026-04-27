@@ -1,5 +1,9 @@
 # Bab 6: Panduan Resource — Link & Sumber Bantuan
 
+> **Hook:** Builder yang menang ngga lebih pintar — mereka cuma tau resource yang tepat. Bab ini ngumpulin "hidden weapon" mereka.
+
+Builder berpengalaman selalu punya **toolkit** — kumpulan platform, dashboard, blog, dan aggregator yang dia cek rutin. Bab ini ngasih kamu toolkit yang sama, biar kamu ngga ketinggalan info penting kayak RFP baru, prize update, atau VC thesis yang lagi viral.
+
 Untuk nyusun dokumentasi ide yang komprehensif, developer bisa refer ke **direktori dan resource** berikut yang terus di-update di 2026.
 
 ---
@@ -205,3 +209,7 @@ Detail step-by-step ada di [Bab 9: Cheatsheet Brainstorming](chapter-9-cheatshee
 ---
 
 *Lanjutkan ke [Bab 7: Metodologi Eksekusi](chapter-7-eksekusi.md) →*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*

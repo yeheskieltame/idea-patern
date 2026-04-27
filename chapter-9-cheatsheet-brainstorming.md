@@ -1,6 +1,10 @@
 # Bab 9: Cheatsheet Brainstorming Ide Hackathon
 
+> **Hook:** Habis baca 8 bab teori, sekarang waktunya **action**. Print bab ini, tempel di tembok, eksekusi step by step.
+
 Cheatsheet ini adalah **workflow praktis** dari nol sampai dapat ide yang siap di-build. Ikuti urutannya — setiap step menyiapkan konteks untuk step berikutnya.
+
+> **Gunain bareng AI:** Tiap step di bawah punya prompt template siap pakai. Pakai **Grok** untuk research (Step 1, 3, 4) karena native X access. Pakai **Claude/Gemini** untuk architecture (Step 5) karena reasoning lebih dalam.
 
 {% hint style="info" %}
 **Filosofi utama:** AI sekarang sangat membantu untuk research dan brainstorm, tapi kualitas output AI bergantung pada kualitas konteks yang kamu kasih. Step 1-3 di bawah adalah soal **mengumpulkan konteks**, baru step 4-6 soal **menggunakan AI** untuk generate dan refine ide.
@@ -355,3 +359,7 @@ Review submission-ku:
 ---
 
 *Kembali ke [Daftar Isi](SUMMARY.md) | Lanjut ke [Glosarium →](glossary.md)*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*

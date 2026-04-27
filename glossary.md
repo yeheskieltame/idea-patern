@@ -1,6 +1,8 @@
 # Glosarium Istilah Web3
 
-Daftar istilah yang dipakai dalam panduan ini.
+> **Hook:** Ngga usah malu kalau masih bingung sama istilah Web3 — semua builder pernah di posisi kamu. Bookmark halaman ini, balik kapanpun.
+
+Daftar istilah yang dipakai dalam panduan ini, disusun **for builders, by builders**.
 
 ## A
 
@@ -200,3 +202,7 @@ Aplikasi zero-knowledge proofs buat verify data dari standard TLS connection (co
 ---
 
 *Kembali ke [Daftar Isi](SUMMARY.md)*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*

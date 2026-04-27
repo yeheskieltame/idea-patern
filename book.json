@@ -1,8 +1,13 @@
 {
   "title": "Arsitektur Strategis Inovasi Web3",
-  "description": "Panduan Komprehensif Ideasi, Penyelarasan Ekosistem, dan Kesiapan Modal Ventura dalam Hackathon Global 2026",
-  "author": "Study Group UTDI",
+  "description": "Panduan praktis ideasi, ecosystem alignment, dan VC-readiness untuk hackathon Web3 global 2026. By builders, for builders.",
+  "author": "Dev Web3 Jogja Community",
   "language": "id",
+  "links": {
+    "sidebar": {
+      "Dev Web3 Jogja": "https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/"
+    }
+  },
   "structure": {
     "readme": "README.md",
     "summary": "SUMMARY.md",

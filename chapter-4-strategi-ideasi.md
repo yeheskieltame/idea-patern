@@ -1,6 +1,10 @@
 # Bab 4: Strategi Penentuan Ide
 
+> **Hook:** Ide paling kreatif jarang menang. Ide paling **align** yang menang. Ada bedanya — dan bab ini ngajarin kamu cara nyari yang kedua.
+
 ## Selaraskan Kreativitas dengan Ecosystem Gaps
+
+Builder pemula sering kejebak: nyari ide "yang belum pernah dipikirin orang." Padahal sponsor justru nyari **ide yang udah mereka pikirin tapi belum ada yang bikin** — itu yang ada di Wishlist dan RFP mereka. Selaraskan kreativitas kamu sama gap yang udah didokumentasikan, dan peluang menang naik drastis.
 
 Nentuin ide hackathon yang menang butuh metodologi yang **lebih dari sekadar ngikutin tren**. Berdasarkan praktik dari **Alchemy** dan sponsor besar lainnya, strategi ideasi yang efektif harus bersandar pada:
 
@@ -192,3 +196,7 @@ Sebelum nulis baris code pertama, pastiin ide kamu memenuhi:
 ---
 
 *Lanjutkan ke [Bab 5: Studi Kasus Program 2026](chapter-5-studi-kasus.md) →*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*

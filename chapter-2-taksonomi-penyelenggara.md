@@ -1,6 +1,10 @@
 # Bab 2: Taksonomi Penyelenggara
 
+> **Hook:** Sponsor ngga buang $500K untuk kasih hadiah. Mereka invest karena ada ROI yang dikejar. Builder yang ngerti ROI itu, menang.
+
 ## Motivasi Strategis dan Insentif Ekosistem
+
+Setiap sponsor hackathon punya **hidden agenda** — bukan dalam arti negatif, tapi dalam arti **strategic objective** yang harus kamu pecahkan. Foundation, exchange, dan DeFi protocol punya motivasi yang beda jauh, dan ide yang sama bisa menang di satu sponsor tapi diabaikan di sponsor lain.
 
 Step pertama buat nyusun ide hackathon yang menang adalah **bedah profil sponsor**. Di Web3, sponsor umumnya ke 3 kategori:
 
@@ -117,3 +121,7 @@ Sebelum decide ikut hackathon mana, tanya:
 ---
 
 *Lanjutkan ke [Bab 3: Klasifikasi Struktur Hackathon](chapter-3-struktur-program.md) →*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*

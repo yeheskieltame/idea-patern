@@ -1,5 +1,9 @@
 # Bab 5: Studi Kasus Program Hackathon dan Accelerator Utama 2026
 
+> **Hook:** 1.100 aplikasi, 12 yang lolos. Apa yang dipunya 12 itu yang ngga dipunya 1.088 sisanya?
+
+Teori boleh, tapi nothing beats real cases. Bab ini bedah **3 program nyata 2026** — Base Batches, Hedera Apex, dan Synthesis MD — buat liat pola apa yang **konsisten muncul di tim pemenang**.
+
 Buat ngasih pemahaman praktis, kita liat gimana kriteria dari bab-bab sebelumnya **diterapin di program nyata** 2026. Program-program ini representasiin **spektrum penuh** dari pure ideation sampai venture-scale readiness.
 
 ---
@@ -178,3 +182,7 @@ Beda dari hackathon umum:
 ---
 
 *Lanjutkan ke [Bab 6: Panduan Resource & Link Bantuan](chapter-6-sumber-daya.md) →*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*

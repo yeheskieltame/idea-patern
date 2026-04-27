@@ -1,8 +1,12 @@
 # Bab 1: Pendahuluan & Evolusi Hackathon Web3
 
+> **Hook:** Kalau kamu masih treat hackathon kayak lomba ngoding biasa, kamu udah kalah sebelum mulai.
+
 ## Dari Lomba Akhir Pekan ke Strategic Growth Engine
 
-Dulu hackathon Web3 cuma kompetisi coding 48 jam. Sekarang, dia udah berubah jadi **strategic growth engine** yang sangat terstruktur.
+Dulu hackathon Web3 cuma kompetisi coding 48 jam. Sekarang? Dia udah berubah jadi **strategic growth engine** yang sangat terstruktur — tempat foundation nyari developer, exchange nyari talent, dan VC nyari portfolio company berikutnya.
+
+Builder yang ngerti pergeseran ini menang dengan ide yang setengah brilian. Builder yang ngga ngerti? Submit kode dewa, pulang tangan kosong.
 
 Hackathon modern berperan sebagai jembatan antara **early-stage ideation** sama ekosistem **venture capital** yang matang. Foundation, exchange, sampai DeFi protocol semua pakai hackathon untuk:
 
@@ -58,3 +62,7 @@ Sebelum lanjut, internalisasi prinsip ini:
 ---
 
 *Lanjutkan ke [Bab 2: Taksonomi Penyelenggara](chapter-2-taksonomi-penyelenggara.md) →*
+
+---
+
+*Made with ☕ by [Dev Web3 Jogja Community](https://devweb3-jogja.gitbook.io/devweb3-jogja-docs/) — for builders, by builders.*
